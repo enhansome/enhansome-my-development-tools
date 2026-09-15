@@ -245,19 +245,19 @@ Read the [NOTICE][] file distributed with this work for additional information r
 
 ## 其他
 
-* [Docker-OSX](https://github.com/sickcodes/Docker-OSX) ⭐ 52,928 | 🐛 418 | 🌐 Shell | 📅 2025-11-11: 在 Docker 里运行 MacOS
-* [glance](https://github.com/glanceapp/glance) ⭐ 37,029 | 🐛 318 | 🌐 Go | 📅 2026-09-05: 用 YAML 配置的导航页。支持 RSS 展示，这个功能很棒。不支持热更新。插件略少。
-* [etcher](https://github.com/resin-io/etcher) ⭐ 34,340 | 🐛 691 | 🌐 TypeScript | 📅 2026-06-02: 将系统镜像写入外接硬盘的工具
-* [homepage](https://github.com/gethomepage/homepage) ⭐ 32,605 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14: 用 YAML 配置的导航首页。简单好用。
-* [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) ⭐ 30,484 | 🐛 500 | 🌐 TypeScript | 📅 2026-09-05: 强大的哔哩哔哩油猴脚本
+* [Docker-OSX](https://github.com/sickcodes/Docker-OSX) ⭐ 52,926 | 🐛 418 | 🌐 Shell | 📅 2025-11-11: 在 Docker 里运行 MacOS
+* [glance](https://github.com/glanceapp/glance) ⭐ 37,053 | 🐛 318 | 🌐 Go | 📅 2026-09-05: 用 YAML 配置的导航页。支持 RSS 展示，这个功能很棒。不支持热更新。插件略少。
+* [etcher](https://github.com/resin-io/etcher) ⭐ 34,344 | 🐛 691 | 🌐 TypeScript | 📅 2026-06-02: 将系统镜像写入外接硬盘的工具
+* [homepage](https://github.com/gethomepage/homepage) ⭐ 32,626 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-15: 用 YAML 配置的导航首页。简单好用。
+* [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) ⭐ 30,491 | 🐛 501 | 🌐 TypeScript | 📅 2026-09-05: 强大的哔哩哔哩油猴脚本
 * [asdf](https://github.com/asdf-vm/asdf) ⭐ 25,585 | 🐛 145 | 🌐 Go | 📅 2026-09-03: 通用的程序版本管理工具。类似 gvm、nvm、rbenv，不过每种语言管理器作为 asdf plugin 使用。
-* [OSX-KVM](https://github.com/kholia/OSX-KVM) ⭐ 23,642 | 🐛 21 | 🌐 Shell | 📅 2026-01-26: 在 KVM 里运行 MacOS
-* [upx](https://github.com/upx/upx) ⭐ 17,871 | 🐛 21 | 🌐 C++ | 📅 2026-09-13: 压缩可执行文件
-* [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) ⭐ 17,352 | 🐛 219 | 🌐 JavaScript | 📅 2023-06-25: 解锁网易云音乐客户端变灰歌曲
-  * [Listen 1](https://github.com/listen1/listen1_chrome_extension) ⭐ 12,095 | 🐛 448 | 🌐 JavaScript | 📅 2025-06-17
+* [OSX-KVM](https://github.com/kholia/OSX-KVM) ⭐ 23,645 | 🐛 21 | 🌐 Shell | 📅 2026-01-26: 在 KVM 里运行 MacOS
+* [upx](https://github.com/upx/upx) ⭐ 17,870 | 🐛 20 | 🌐 C++ | 📅 2026-09-15: 压缩可执行文件
+* [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) ⭐ 17,350 | 🐛 219 | 🌐 JavaScript | 📅 2023-06-25: 解锁网易云音乐客户端变灰歌曲
+  * [Listen 1](https://github.com/listen1/listen1_chrome_extension) ⭐ 12,097 | 🐛 448 | 🌐 JavaScript | 📅 2025-06-17
   * [ieaseMusic](https://github.com/trazyn/ieaseMusic) ⚠️ Archived
-* [browserless](https://github.com/joelgriffith/browserless) ⭐ 13,695 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-14: Chrome as a service in docker
-* [plasmo](https://github.com/PlasmoHQ/plasmo) ⭐ 13,150 | 🐛 371 | 🌐 TypeScript | 📅 2026-09-13: 浏览器插件开发框架
+* [browserless](https://github.com/joelgriffith/browserless) ⭐ 13,695 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-15: Chrome as a service in docker
+* [plasmo](https://github.com/PlasmoHQ/plasmo) ⭐ 13,151 | 🐛 371 | 🌐 TypeScript | 📅 2026-09-14: 浏览器插件开发框架
 * [franc](https://github.com/wooorm/franc) ⭐ 4,412 | 🐛 6 | 🌐 JavaScript | 📅 2024-06-12: 自然语言语种推测
 * [screenFetch](https://github.com/KittyKatt/screenFetch) ⭐ 4,075 | 🐛 170 | 🌐 Shell | 📅 2026-03-02: 获取系统信息`Ⓛ` `Ⓜ`
   * [neofetch](https://github.com/dylanaraps/neofetch) ⚠️ Archived: 终端中打印系统信息，纯 Bash 实现。
@@ -300,39 +300,39 @@ Read the [NOTICE][] file distributed with this work for additional information r
 
 ## 浏览器
 
-* [neko](https://github.com/m1k1o/neko) ⭐ 22,293 | 🐛 151 | 🌐 Go | 📅 2026-09-10: 在容器里运行浏览器
+* [neko](https://github.com/m1k1o/neko) ⭐ 22,298 | 🐛 151 | 🌐 Go | 📅 2026-09-10: 在容器里运行浏览器
 * [Tor](https://www.torproject.org/): 专注于用户隐私的浏览器。需要翻墙
 
 ## 输入法
 
-* [rime-ice 雾凇拼音](https://github.com/iDvel/rime-ice) ⭐ 19,332 | 🐛 6 | 🌐 Lua | 📅 2026-09-10: RIME 配置方案+词库，词库长期维护
-* [小狼毫 Weasel](https://github.com/rime/weasel) ⭐ 7,988 | 🐛 262 | 🌐 C++ | 📅 2026-08-18: Rime for Windows，自带配置管理器，不用安装 plum。
-* [鼠须管 squirrel](https://github.com/rime/squirrel) ⭐ 6,346 | 🐛 207 | 🌐 Swift | 📅 2026-08-13: Rime for MacOS
+* [rime-ice 雾凇拼音](https://github.com/iDvel/rime-ice) ⭐ 19,346 | 🐛 4 | 🌐 Lua | 📅 2026-09-14: RIME 配置方案+词库，词库长期维护
+* [小狼毫 Weasel](https://github.com/rime/weasel) ⭐ 7,992 | 🐛 263 | 🌐 C++ | 📅 2026-08-18: Rime for Windows，自带配置管理器，不用安装 plum。
+* [鼠须管 squirrel](https://github.com/rime/squirrel) ⭐ 6,350 | 🐛 208 | 🌐 Swift | 📅 2026-08-13: Rime for MacOS
   * [Squirrel-Designer](https://github.com/LEOYoon-Tsaw/Squirrel-Designer) ⭐ 236 | 🐛 1 | 🌐 Swift | 📅 2026-09-11: 鼠须管皮肤制作工具
-* [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) ⭐ 5,648 | 🐛 102 | 🌐 Kotlin | 📅 2026-09-12: 目前[不支持九宫格](https://github.com/fcitx5-android/fcitx5-android/issues/377) ⭐ 5,648 | 🐛 102 | 🌐 Kotlin | 📅 2026-09-12
-* [同文输入法](https://github.com/osfans/trime) ⭐ 4,635 | 🐛 118 | 🌐 Kotlin | 📅 2026-09-14: Rime for Android
-* [rime/plum](https://github.com/rime/plum) ⭐ 1,927 | 🐛 22 | 🌐 Shell | 📅 2026-05-08: RIME 的配置管理工具
+* [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) ⭐ 5,650 | 🐛 102 | 🌐 Kotlin | 📅 2026-09-12: 目前[不支持九宫格](https://github.com/fcitx5-android/fcitx5-android/issues/377) ⭐ 5,650 | 🐛 102 | 🌐 Kotlin | 📅 2026-09-12
+* [同文输入法](https://github.com/osfans/trime) ⭐ 4,639 | 🐛 118 | 🌐 Kotlin | 📅 2026-09-14: Rime for Android
+* [rime/plum](https://github.com/rime/plum) ⭐ 1,928 | 🐛 22 | 🌐 Shell | 📅 2026-05-08: RIME 的配置管理工具
 * [Hamster](https://github.com/imfuxiao/Hamster) ⭐ 1,628 | 🐛 41 | 🌐 Swift | 📅 2025-05-13: Rime for iOS
-* [fcitx-rime](https://github.com/fcitx/fcitx5-rime) ⭐ 437 | 🐛 5 | 🌐 C++ | 📅 2026-09-13: Rime for Linux
+* [fcitx-rime](https://github.com/fcitx/fcitx5-rime) ⭐ 438 | 🐛 5 | 🌐 C++ | 📅 2026-09-13: Rime for Linux
 * [RIME](https://rime.im/download/): 开源输入法。支持 Windows/Mac/Linux/Android
 
 ## 手册
 
 ### Cheatsheet 管理器
 
-* [tldr](https://github.com/tldr-pages/tldr/) ⭐ 63,701 | 🐛 276 | 🌐 Markdown | 📅 2026-09-14: 命令行工具，手册内容由社区维护，非常详尽。
-* <http://devdocs.io/> : 社区维护内容。在线网页，也支持 PWA。[开源的](https://github.com/Thibaut/devdocs/) ⭐ 39,447 | 🐛 210 | 🌐 Ruby | 📅 2026-09-14
+* [tldr](https://github.com/tldr-pages/tldr/) ⭐ 63,708 | 🐛 271 | 🌐 Markdown | 📅 2026-09-15: 命令行工具，手册内容由社区维护，非常详尽。
+* <http://devdocs.io/> : 社区维护内容。在线网页，也支持 PWA。[开源的](https://github.com/Thibaut/devdocs/) ⭐ 39,451 | 🐛 196 | 🌐 Ruby | 📅 2026-09-14
 * [cheat](https://github.com/cheat/cheat) ⭐ 13,449 | 🐛 34 | 🌐 Go | 📅 2026-05-19: 命令行工具，本地存储，支持多 cheatsheets 扩展。这个仓库只有程序，需要下载官方 cheatsheets 配合使用。还可以 `cheat -e` 自己编辑维护。
-  * [cheat/cheatsheets](https://github.com/cheat/cheatsheets) ⭐ 2,036 | 🐛 34 | 🌐 Shell | 📅 2024-08-06: 官方 cheatsheets
+  * [cheat/cheatsheets](https://github.com/cheat/cheatsheets) ⭐ 2,035 | 🐛 34 | 🌐 Shell | 📅 2024-08-06: 官方 cheatsheets
   * [adoyle-h/my-command-cheat](https://github.com/adoyle-h/my-command-cheat) ⭐ 4 | 🐛 0 | 📅 2024-10-04: 我的 cheatsheets
 * [Dash](https://kapeli.com/dash): 桌面程序。Mac 专用。 `Ⓜ`
 * [zealdocs](https://zealdocs.org/): 桌面程序。跨平台
 
 ### Cheatsheet
 
-* [cheat.sh](https://github.com/chubin/cheat.sh) ⭐ 41,742 | 🐛 149 | 🌐 Python | 📅 2025-12-23: cheatsheet 服务，可通过 curl 获取内容，内容由社区维护。
-* [Rico's cheatsheets](https://devhints.io): 网页版，[源码](https://github.com/rstacruz/cheatsheets) ⭐ 14,460 | 🐛 929 | 🌐 SCSS | 📅 2026-08-25
-* [BASH CHEATSHEET (中文速查表) - by skywind](https://github.com/skywind3000/awesome-cheatsheets/blob/master/languages/bash.sh) ⭐ 12,575 | 🐛 24 | 🌐 Shell | 📅 2026-09-02
+* [cheat.sh](https://github.com/chubin/cheat.sh) ⭐ 41,743 | 🐛 149 | 🌐 Python | 📅 2025-12-23: cheatsheet 服务，可通过 curl 获取内容，内容由社区维护。
+* [Rico's cheatsheets](https://devhints.io): 网页版，[源码](https://github.com/rstacruz/cheatsheets) ⭐ 14,459 | 🐛 931 | 🌐 SCSS | 📅 2026-08-25
+* [BASH CHEATSHEET (中文速查表) - by skywind](https://github.com/skywind3000/awesome-cheatsheets/blob/master/languages/bash.sh) ⭐ 12,576 | 🐛 24 | 🌐 Shell | 📅 2026-09-02
 * <https://learnxinyminutes.com> : 快速学习各种编程语言的手册。[源码](https://github.com/adambard/learnxinyminutes-docs) ⭐ 12,344 | 🐛 241 | 🌐 Markdown | 📅 2026-09-09
 * [linux-cheat](https://github.com/cirosantilli/linux-cheat) ⭐ 922 | 🐛 2 | 🌐 Shell | 📅 2019-04-16: Linux user-land CLI utilities
 * [explainshell.com/](https://explainshell.com/): 形象解释 shell 命令
@@ -350,14 +350,14 @@ Read the [NOTICE][] file distributed with this work for additional information r
 
 ### CI/CD
 
-* [drone](https://github.com/drone/drone) ⭐ 38,346 | 🐛 108 | 🌐 Go | 📅 2026-09-10: Drone is a Continuous Delivery platform built on Docker, written in Go
-* [GoCD](https://github.com/gocd/gocd) ⭐ 7,434 | 🐛 83 | 🌐 Java | 📅 2026-09-12: written in java
+* [drone](https://github.com/drone/drone) ⭐ 38,352 | 🐛 109 | 🌐 Go | 📅 2026-09-10: Drone is a Continuous Delivery platform built on Docker, written in Go
+* [GoCD](https://github.com/gocd/gocd) ⭐ 7,434 | 🐛 84 | 🌐 Java | 📅 2026-09-15: written in java
 * [Travis CI](https://github.com/marketplace/travis-ci/): 付费服务
 
 ### 自动化构建
 
-* [justfile](https://github.com/casey/just) ⭐ 35,790 | 🐛 171 | 🌐 Rust | 📅 2026-09-01: 类似 makefile，但更好用
-* [xmake](https://github.com/xmake-io/xmake) ⭐ 12,215 | 🐛 253 | 🌐 Lua | 📅 2026-09-14: 基于 Lua 的轻量级跨平台构建工具
+* [justfile](https://github.com/casey/just) ⭐ 35,801 | 🐛 171 | 🌐 Rust | 📅 2026-09-01: 类似 makefile，但更好用
+* [xmake](https://github.com/xmake-io/xmake) ⭐ 12,217 | 🐛 255 | 🌐 Lua | 📅 2026-09-14: 基于 Lua 的轻量级跨平台构建工具
 * `make` 与 `makefile`: 缺点是不能跨平台，优点是能够直接调用 shell 命令和环境变量
   * [Makefile 简易教程](https://seisman.github.io/how-to-write-makefile/introduction.html)
 * <https://danger.systems/> : code review 时挺有用的自动化工具
@@ -365,15 +365,15 @@ Read the [NOTICE][] file distributed with this work for additional information r
 
 ### 自动化机器人
 
-* [rasa](https://github.com/RasaHQ/rasa) ⭐ 21,324 | 🐛 153 | 🌐 Python | 📅 2026-07-24: 聊天机器人。Python 实现的。
-* [hubot](https://github.com/github/hubot) ⭐ 16,795 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-03: 交互机器人
-* [botpress](https://github.com/botpress/botpress) ⭐ 14,912 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-11: 聊天机器人。TS 实现的。
-* [robotjs](https://github.com/octalmage/robotjs) ⭐ 12,778 | 🐛 7 | 🌐 C | 📅 2026-08-07: 用 NodeJS 定制 GUI 自动化流程。支持 Windows, Mac, Linux 系统
+* [rasa](https://github.com/RasaHQ/rasa) ⭐ 21,324 | 🐛 152 | 🌐 Python | 📅 2026-07-24: 聊天机器人。Python 实现的。
+* [hubot](https://github.com/github/hubot) ⭐ 16,796 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-03: 交互机器人
+* [botpress](https://github.com/botpress/botpress) ⭐ 14,916 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-14: 聊天机器人。TS 实现的。
+* [robotjs](https://github.com/octalmage/robotjs) ⭐ 12,779 | 🐛 7 | 🌐 C | 📅 2026-08-07: 用 NodeJS 定制 GUI 自动化流程。支持 Windows, Mac, Linux 系统
   * [nut.js](https://github.com/nut-tree/nut.js) ⭐ 2,849 | 🐛 43 | 🌐 TypeScript | 📅 2024-05-01: 备选方案
 
 ## 财务
 
-* [beancount](https://github.com/beancount/beancount) ⭐ 6,000 | 🐛 238 | 🌐 Python | 📅 2026-08-23: 复式记账语言，纯文本编辑，命令行操作，提供类似 SQL 的查询
+* [beancount](https://github.com/beancount/beancount) ⭐ 6,004 | 🐛 238 | 🌐 Python | 📅 2026-08-23: 复式记账语言，纯文本编辑，命令行操作，提供类似 SQL 的查询
   * [ledger](https://github.com/ledger/ledger) ⭐ 6,035 | 🐛 18 | 🌐 C++ | 📅 2026-09-05: 备选方案
   * [参考](https://www.bmpi.dev/self/beancount-my-accounting-tool-v2/)
 * [fava](https://github.com/beancount/fava) ⭐ 2,574 | 🐛 102 | 🌐 Python | 📅 2026-09-11: beancount 的 Web 界面
@@ -381,7 +381,7 @@ Read the [NOTICE][] file distributed with this work for additional information r
 
 ## 短信
 
-* [SmsForwarder](https://github.com/pppscn/SmsForwarder) ⭐ 27,977 | 🐛 14 | 🌐 Kotlin | 📅 2026-09-14: 短信转发器（安卓系统）
+* [SmsForwarder](https://github.com/pppscn/SmsForwarder) ⭐ 27,994 | 🐛 14 | 🌐 Kotlin | 📅 2026-09-15: 短信转发器（安卓系统）
 * 临时接收手机短信
   <!-- - https://sms-activate.org/ : 最靠谱的平台，价格不贵 -->
   <!-- - https://5sim.net/zh : 似乎挺便宜的 -->
@@ -427,8 +427,8 @@ Read the [NOTICE][] file distributed with this work for additional information r
 
 ## 桌面应用开发
 
-* [electron](https://github.com/electron/electron) ⭐ 123,044 | 🐛 773 | 🌐 C++ | 📅 2026-09-14: 用 Web 技术栈开发跨平台的桌面应用
-* [tauri](https://github.com/tauri-apps/tauri) ⭐ 111,054 | 🐛 1,464 | 🌐 Rust | 📅 2026-09-13: 用 Web + Rust + JS 开发跨平台的桌面应用。Web 技术做窗口渲染，Rust 做后端引擎。linux 下使用 GTK + WebKitGTK，windows 使用 windows-rs + WebView2，MacOS 使用 AppKit + WKWebView。Android 和 iOS 的支持还在开发中。包大小、内存占用，都优于 electron。
+* [electron](https://github.com/electron/electron) ⭐ 123,067 | 🐛 765 | 🌐 C++ | 📅 2026-09-15: 用 Web 技术栈开发跨平台的桌面应用
+* [tauri](https://github.com/tauri-apps/tauri) ⭐ 111,080 | 🐛 1,463 | 🌐 Rust | 📅 2026-09-15: 用 Web + Rust + JS 开发跨平台的桌面应用。Web 技术做窗口渲染，Rust 做后端引擎。linux 下使用 GTK + WebKitGTK，windows 使用 windows-rs + WebView2，MacOS 使用 AppKit + WKWebView。Android 和 iOS 的支持还在开发中。包大小、内存占用，都优于 electron。
 
 ## Authentication
 
@@ -438,18 +438,18 @@ Read the [NOTICE][] file distributed with this work for additional information r
 
 ## IAM
 
-* [authelia](https://github.com/authelia/authelia) ⭐ 28,955 | 🐛 130 | 🌐 Go | 📅 2026-09-14: 轻量级。支持 nginx 和 traefik。缺点是 Identity Provider 只支持 OpenID Connect 1.0。
-* [authentik](https://github.com/goauthentik/authentik) ⭐ 25,494 | 🐛 1,093 | 🌐 Python | 📅 2026-09-14: 功能丰富但复杂，入门成本比较高。部署容易。UI 丑，但可以更换背景和 Logo，也可以自定义 CSS 来美化 UI。注意 license，不适合用在公司，适合个人使用。支持 nginx 和 traefik。缺点是 [domain-level forward auth 不支持权限控制](https://github.com/goauthentik/authentik/discussions/13823) ⭐ 25,494 | 🐛 1,093 | 🌐 Python | 📅 2026-09-14。
-* [hydra](https://github.com/ory/hydra) ⭐ 17,539 | 🐛 97 | 🌐 Go | 📅 2026-07-29: OpenID Connect and OAuth Provider written in Go
-  * [dex](https://github.com/dexidp/dex) ⭐ 11,092 | 🐛 544 | 🌐 Go | 📅 2026-09-14: 备选方案
-* [zitadel](https://github.com/zitadel/zitadel) ⭐ 15,021 | 🐛 1,181 | 🌐 Go | 📅 2026-09-13: 商业公司使用注意：AGPL3-only 协议。
-* [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,402 | 🐛 97 | 🌐 Go | 📅 2026-09-14: An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+* [authelia](https://github.com/authelia/authelia) ⭐ 28,968 | 🐛 135 | 🌐 Go | 📅 2026-09-15: 轻量级。支持 nginx 和 traefik。缺点是 Identity Provider 只支持 OpenID Connect 1.0。
+* [authentik](https://github.com/goauthentik/authentik) ⭐ 25,522 | 🐛 1,102 | 🌐 Python | 📅 2026-09-15: 功能丰富但复杂，入门成本比较高。部署容易。UI 丑，但可以更换背景和 Logo，也可以自定义 CSS 来美化 UI。注意 license，不适合用在公司，适合个人使用。支持 nginx 和 traefik。缺点是 [domain-level forward auth 不支持权限控制](https://github.com/goauthentik/authentik/discussions/13823) ⭐ 25,522 | 🐛 1,102 | 🌐 Python | 📅 2026-09-15。
+* [hydra](https://github.com/ory/hydra) ⭐ 17,542 | 🐛 98 | 🌐 Go | 📅 2026-07-29: OpenID Connect and OAuth Provider written in Go
+  * [dex](https://github.com/dexidp/dex) ⭐ 11,093 | 🐛 543 | 🌐 Go | 📅 2026-09-14: 备选方案
+* [zitadel](https://github.com/zitadel/zitadel) ⭐ 15,024 | 🐛 1,184 | 🌐 Go | 📅 2026-09-15: 商业公司使用注意：AGPL3-only 协议。
+* [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,404 | 🐛 96 | 🌐 Go | 📅 2026-09-14: An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 
 ## Authorization
 
-* [casbin](https://github.com/casbin/casbin) ⭐ 20,386 | 🐛 38 | 🌐 Go | 📅 2026-09-11: 一个类库。通过设计 PERM 模型来控制认证策略。支持 ACL, RBAC, ABAC 等策略。支持主流语言。
-* [Open Policy Agent](https://github.com/open-policy-agent/opa) ⭐ 12,235 | 🐛 317 | 🌐 Go | 📅 2026-09-14: general-purpose policy engine
-* [kyverno](https://github.com/kyverno/kyverno) ⭐ 8,141 | 🐛 704 | 🌐 Go | 📅 2026-09-14: Kubernetes-native policy engine
+* [casbin](https://github.com/casbin/casbin) ⭐ 20,389 | 🐛 38 | 🌐 Go | 📅 2026-09-11: 一个类库。通过设计 PERM 模型来控制认证策略。支持 ACL, RBAC, ABAC 等策略。支持主流语言。
+* [Open Policy Agent](https://github.com/open-policy-agent/opa) ⭐ 12,234 | 🐛 312 | 🌐 Go | 📅 2026-09-15: general-purpose policy engine
+* [kyverno](https://github.com/kyverno/kyverno) ⭐ 8,144 | 🐛 704 | 🌐 Go | 📅 2026-09-15: Kubernetes-native policy engine
 
 ## 开源项目
 
@@ -458,7 +458,7 @@ Read the [NOTICE][] file distributed with this work for additional information r
 * 如何选择 License
   * <https://choosealicense.com/>
 * 如何写 Issue/PR Template
-  * <https://github.com/stevemao/github-issue-templates> ⭐ 4,464 | 🐛 6 | 📅 2024-03-20
+  * <https://github.com/stevemao/github-issue-templates> ⭐ 4,461 | 🐛 6 | 📅 2024-03-20
 * 如何写 Code of Conduct
   * <https://www.contributor-covenant.org/>
 * 如何写 Security Policy
@@ -485,10 +485,10 @@ Read the [NOTICE][] file distributed with this work for additional information r
 
 ## License
 
-* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,622 | 🐛 1,692 | 🌐 Python | 📅 2026-09-11: detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
+* [scancode-toolkit](https://github.com/nexB/scancode-toolkit) ⭐ 2,622 | 🐛 1,695 | 🌐 Python | 📅 2026-09-11: detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
 * [LicenseFinder](https://github.com/pivotal/LicenseFinder) ⭐ 1,797 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22: Find licenses for your project's dependencies.
 * <https://spdx.org/licenses/>
-  * [license-list-data](https://github.com/spdx/license-list-data) ⭐ 696 | 🐛 2 | 🌐 HTML | 📅 2026-09-10: Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
+  * [license-list-data](https://github.com/spdx/license-list-data) ⭐ 696 | 🐛 1 | 🌐 HTML | 📅 2026-09-10: Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
   * [spdx-license-list](https://github.com/sindresorhus/spdx-license-list) ⭐ 94 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-24: nodejs 包
 
 ## [Github](./github/README.md)
@@ -499,17 +499,17 @@ Read the [NOTICE][] file distributed with this work for additional information r
 
 ## 代码质量检查
 
-* [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 10,981 | 🐛 0 | 🌐 Java | 📅 2026-09-12: 「待评估」
+* [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 10,984 | 🐛 0 | 🌐 Java | 📅 2026-09-14: 「待评估」
 
 ## 安全渗透
 
-* [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 39,005 | 🐛 610 | 🌐 Ruby | 📅 2026-09-14
-* [rustscan](https://github.com/RustScan/RustScan) ⭐ 20,406 | 🐛 62 | 🌐 Rust | 📅 2026-09-09: Scans all 65k ports in 3 seconds.
-* [nmap](https://github.com/nmap/nmap) ⭐ 13,584 | 🐛 690 | 🌐 C | 📅 2026-09-11: 网络扫描工具
-* [falco](https://github.com/falcosecurity/falco) ⭐ 9,364 | 🐛 42 | 🌐 C++ | 📅 2026-09-14: 「待评价」intrusion and abnormality detection for Cloud Native platforms such as Kubernetes, Mesosphere, and Cloud Foundry. Detect abnormal application behavior.
-* [Scanners-Box](https://github.com/We5ter/Scanners-Box) ⭐ 9,044 | 🐛 0 | 📅 2026-08-12: 安全行业从业者自研开源扫描器合辑
-* [Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) ⭐ 4,332 | 🐛 2 | 🌐 Python | 📅 2026-06-23: 一个攻防知识仓库
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 930 | 🐛 2 | 🌐 Python | 📅 2026-09-08: 开源（GPL-3.0）自主式 AI 渗透测试平台，覆盖 Web、API、Active Directory 与 Kubernetes，并可作为 MCP 主机。
+* [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 39,008 | 🐛 606 | 🌐 Ruby | 📅 2026-09-14
+* [rustscan](https://github.com/RustScan/RustScan) ⭐ 20,410 | 🐛 62 | 🌐 Rust | 📅 2026-09-09: Scans all 65k ports in 3 seconds.
+* [nmap](https://github.com/nmap/nmap) ⭐ 13,591 | 🐛 692 | 🌐 C | 📅 2026-09-14: 网络扫描工具
+* [falco](https://github.com/falcosecurity/falco) ⭐ 9,375 | 🐛 40 | 🌐 C++ | 📅 2026-09-15: 「待评价」intrusion and abnormality detection for Cloud Native platforms such as Kubernetes, Mesosphere, and Cloud Foundry. Detect abnormal application behavior.
+* [Scanners-Box](https://github.com/We5ter/Scanners-Box) ⭐ 9,047 | 🐛 0 | 📅 2026-09-15: 安全行业从业者自研开源扫描器合辑
+* [Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) ⭐ 4,333 | 🐛 2 | 🌐 Python | 📅 2026-06-23: 一个攻防知识仓库
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 938 | 🐛 2 | 🌐 Python | 📅 2026-09-08: 开源（GPL-3.0）自主式 AI 渗透测试平台，覆盖 Web、API、Active Directory 与 Kubernetes，并可作为 MCP 主机。
 * [Kali Linux](https://www.kali.org/)
   * [Kali Docker Image](https://hub.docker.com/r/kalilinux/kali-linux-docker): [参考资料](https://archive.ph/zh0wk)
 * [Snyk](https://snyk.io/): 开源风险收集检测服务。提供 API 和 CLI 做检查。
@@ -519,8 +519,8 @@ Read the [NOTICE][] file distributed with this work for additional information r
 
 IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prevention System，入侵防御系统）本质上都属于网络安全里的检测/防护设备，区别核心在于：IDS 发现攻击，但通常不主动拦截。IPS 发现攻击，并且可以主动阻断。
 
-* [fail2ban](https://github.com/fail2ban/fail2ban) ⭐ 18,620 | 🐛 272 | 🌐 Python | 📅 2026-09-11: 监控系统日志并自动封禁表现出恶意行为的主机 IP。它通过分析登录失败等日志模式，动态更新防火墙规则，以抵御暴力破解和其他自动化攻击。
-* [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 14,841 | 🐛 301 | 🌐 Go | 📅 2026-09-14: security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+* [fail2ban](https://github.com/fail2ban/fail2ban) ⭐ 18,627 | 🐛 272 | 🌐 Python | 📅 2026-09-11: 监控系统日志并自动封禁表现出恶意行为的主机 IP。它通过分析登录失败等日志模式，动态更新防火墙规则，以抵御暴力破解和其他自动化攻击。
+* [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 14,857 | 🐛 291 | 🌐 Go | 📅 2026-09-14: security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 
 ### 网络威胁情报 CTI
 
@@ -532,19 +532,19 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### 蜜罐 Honeypot
 
-* <https://github.com/paralax/awesome-honeypots/> ⭐ 10,559 | 🐛 25 | 🌐 Python | 📅 2026-06-01
+* <https://github.com/paralax/awesome-honeypots/> ⭐ 10,562 | 🐛 25 | 🌐 Python | 📅 2026-06-01
 
 ### 密码
 
-* [gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 29,293 | 🐛 474 | 🌐 Go | 📅 2026-09-09: 检测 git 提交历史是否存在密码泄露
-* [hashcat](https://github.com/hashcat/hashcat) ⭐ 26,773 | 🐛 343 | 🌐 C | 📅 2026-09-14: 很快的密码破解工具
-* [John the Ripper jumbo](https://github.com/openwall/john) ⭐ 13,624 | 🐛 514 | 🌐 C | 📅 2026-08-01: mac 用户用 `brew install john-jumbo` 安装，不要安装 `brew install john`，前者有更多功能。
+* [gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 29,315 | 🐛 480 | 🌐 Go | 📅 2026-09-09: 检测 git 提交历史是否存在密码泄露
+* [hashcat](https://github.com/hashcat/hashcat) ⭐ 26,772 | 🐛 340 | 🌐 C | 📅 2026-09-15: 很快的密码破解工具
+* [John the Ripper jumbo](https://github.com/openwall/john) ⭐ 13,629 | 🐛 514 | 🌐 C | 📅 2026-08-01: mac 用户用 `brew install john-jumbo` 安装，不要安装 `brew install john`，前者有更多功能。
 
 ### 爆破字典
 
-* <https://github.com/berzerk0/Probable-Wordlists> ⭐ 9,345 | 🐛 21 | 📅 2023-10-04
-* <https://github.com/TheKingOfDuck/fuzzDicts> ⭐ 8,440 | 🐛 0 | 🌐 Python | 📅 2023-11-13
-* <https://github.com/rootphantomer/Blasting_dictionary> ⭐ 5,290 | 🐛 0 | 🌐 Python | 📅 2022-03-21
+* <https://github.com/berzerk0/Probable-Wordlists> ⭐ 9,346 | 🐛 21 | 📅 2023-10-04
+* <https://github.com/TheKingOfDuck/fuzzDicts> ⭐ 8,439 | 🐛 0 | 🌐 Python | 📅 2023-11-13
+* <https://github.com/rootphantomer/Blasting_dictionary> ⭐ 5,289 | 🐛 0 | 🌐 Python | 📅 2022-03-21
 * [pydictor](https://github.com/LandGrey/pydictor) ⭐ 3,652 | 🐛 13 | 🌐 Python | 📅 2024-12-05: 字典生成工具
 * <https://github.com/jeanphorn/wordlist> ⭐ 1,816 | 🐛 2 | 🌐 Python | 📅 2026-04-28
 * <https://github.com/zxcvbn001/password_brute_dictionary> ⭐ 1,329 | 🐛 0 | 🌐 Python | 📅 2021-10-08
@@ -569,13 +569,13 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### 漏洞靶场
 
-* <https://github.com/vulhub/vulhub> ⭐ 21,237 | 🐛 54 | 🌐 Dockerfile | 📅 2026-09-11
+* <https://github.com/vulhub/vulhub> ⭐ 21,239 | 🐛 54 | 🌐 Dockerfile | 📅 2026-09-11
 * <https://github.com/Medicean/VulApps> ⚠️ Archived
 
 ## 架构
 
 * [Microsoft Azure - 云设计模式](https://docs.microsoft.com/zh-cn/azure/architecture/patterns/)
-  * [Github 仓库](https://github.com/mspnp/architecture-center) ⭐ 2,019 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-13，[中文仓库](https://github.com/mspnp/architecture-center.zh-cn)
+  * [Github 仓库](https://github.com/mspnp/architecture-center) ⭐ 2,020 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-15，[中文仓库](https://github.com/mspnp/architecture-center.zh-cn)
 * <https://www.12factor.net/>
 * <https://c4model.com/> : C4 Model 绘制架构图的方法论
   * <https://www.infoq.cn/article/C4-architecture-model>
@@ -588,53 +588,53 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 编辑器/IDE
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 192,498 | 🐛 21,075 | 🌐 TypeScript | 📅 2026-09-14: 可能是最棒的开源 IDE
-  * [code-server](https://github.com/cdr/code-server) ⭐ 79,290 | 🐛 153 | 🌐 TypeScript | 📅 2026-09-11: Run VS Code on a remote server
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 192,552 | 🐛 21,103 | 🌐 TypeScript | 📅 2026-09-15: 可能是最棒的开源 IDE
+  * [code-server](https://github.com/cdr/code-server) ⭐ 79,299 | 🐛 153 | 🌐 TypeScript | 📅 2026-09-11: Run VS Code on a remote server
   * [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) ⭐ 4,089 | 🐛 300 | 🌐 TypeScript | 📅 2024-12-13: VSC 设置备份同步工具
-* [neovim](https://github.com/neovim/neovim) ⭐ 102,322 | 🐛 1,903 | 🌐 Vim Script | 📅 2026-09-14: 终端编辑器，用 Python 写的 vim
-  * [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ⭐ 21,373 | 🐛 11 | 🌐 Shell | 📅 2026-09-14
+* [neovim](https://github.com/neovim/neovim) ⭐ 102,344 | 🐛 1,908 | 🌐 Vim Script | 📅 2026-09-15: 终端编辑器，用 Python 写的 vim
+  * [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ⭐ 21,382 | 🐛 9 | 🌐 Shell | 📅 2026-09-15
   * [oni](https://github.com/onivim/oni) ⚠️ Archived: Neovim GUI 编辑器
   * [nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) ⚠️ Archived: nvim 编程圣经
-  * [vimspector](https://github.com/puremourning/vimspector) ⭐ 4,320 | 🐛 42 | 🌐 Vim Script | 📅 2026-08-31: A multi-language debugging system for Vim
+  * [vimspector](https://github.com/puremourning/vimspector) ⭐ 4,321 | 🐛 42 | 🌐 Vim Script | 📅 2026-08-31: A multi-language debugging system for Vim
   * [one.nvim](https://github.com/adoyle-h/one.nvim) ⭐ 187 | 🐛 0 | 🌐 Lua | 📅 2026-04-24: All-in-one neovim config framework in Lua.
   * [vim colors chemes](https://vimcolorschemes.com/)
-* [micro](https://github.com/micro-editor/MICRO) ⭐ 29,576 | 🐛 931 | 🌐 Go | 📅 2026-09-14: 学习成本低，零配置的终端编辑器
+* [micro](https://github.com/micro-editor/MICRO) ⭐ 29,587 | 🐛 932 | 🌐 Go | 📅 2026-09-15: 学习成本低，零配置的终端编辑器
 * vim
   * [vim-fast](https://github.com/chenxuan520/vim-fast) ⭐ 103 | 🐛 1 | 🌐 Vim Script | 📅 2026-03-21: 提供了无插件的 vim 配置。（待评测）
 * [Sublime](http://www.sublimetext.com): 也许现在比不上其他工具，它是推动编辑器体验进化的功臣。
 
 ### 代码编辑器
 
-* [Monaco Editor](https://github.com/Microsoft/monaco-editor) ⭐ 46,735 | 🐛 859 | 🌐 JavaScript | 📅 2026-09-13: VS Code 的代码编辑器
-* [ace](https://github.com/ajaxorg/ace) ⭐ 27,144 | 🐛 143 | 🌐 JavaScript | 📅 2026-08-13
+* [Monaco Editor](https://github.com/Microsoft/monaco-editor) ⭐ 46,745 | 🐛 859 | 🌐 JavaScript | 📅 2026-09-13: VS Code 的代码编辑器
+* [ace](https://github.com/ajaxorg/ace) ⭐ 27,143 | 🐛 142 | 🌐 JavaScript | 📅 2026-09-14
 * [CodeMirror](https://github.com/codemirror/dev/) ⚠️ Archived
 
 ### 富文本编辑器 WYSIWYG
 
-* [editor.js](https://github.com/codex-team/editor.js) ⭐ 31,945 | 🐛 702 | 🌐 TypeScript | 📅 2026-08-31: A block-styled editor with clean JSON output
+* [editor.js](https://github.com/codex-team/editor.js) ⭐ 31,945 | 🐛 703 | 🌐 TypeScript | 📅 2026-08-31: A block-styled editor with clean JSON output
 * [slate](https://github.com/ianstormtaylor/slate) ⭐ 31,748 | 🐛 653 | 🌐 TypeScript | 📅 2026-09-13
-* [lexical](https://github.com/facebook/lexical) ⭐ 23,850 | 🐛 295 | 🌐 TypeScript | 📅 2026-09-14: facebook 出品
-* [trix](https://github.com/basecamp/trix) ⭐ 20,006 | 🐛 186 | 🌐 JavaScript | 📅 2026-09-12
-* [plate](https://github.com/udecode/plate) ⭐ 16,578 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-11: The rich-text editor for React.
+* [lexical](https://github.com/facebook/lexical) ⭐ 23,856 | 🐛 296 | 🌐 TypeScript | 📅 2026-09-15: facebook 出品
+* [trix](https://github.com/basecamp/trix) ⭐ 20,008 | 🐛 186 | 🌐 JavaScript | 📅 2026-09-12
+* [plate](https://github.com/udecode/plate) ⭐ 16,587 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-14: The rich-text editor for React.
 * [ory/editor](https://github.com/ory/editor) ⭐ 9,540 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-28: 基于 React 和 Redux 的内容编辑器
 
 ### Online IDE
 
-* [code-server](https://github.com/coder/code-server) ⭐ 79,290 | 🐛 153 | 🌐 TypeScript | 📅 2026-09-11: VSCode in the browser
-* [Theia](https://github.com/theia-ide/theia) ⭐ 21,691 | 🐛 1,512 | 🌐 TypeScript | 📅 2026-09-14: Web IDE
-* [gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,772 | 🐛 452 | 🌐 TypeScript | 📅 2026-09-14: VSCode in the browser + workspace
-* [Codesandbox](https://github.com/CompuIves/codesandbox-client) ⭐ 13,641 | 🐛 615 | 🌐 JavaScript | 📅 2026-09-07
+* [code-server](https://github.com/coder/code-server) ⭐ 79,299 | 🐛 153 | 🌐 TypeScript | 📅 2026-09-11: VSCode in the browser
+* [Theia](https://github.com/theia-ide/theia) ⭐ 21,690 | 🐛 1,501 | 🌐 TypeScript | 📅 2026-09-15: Web IDE
+* [gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,771 | 🐛 452 | 🌐 TypeScript | 📅 2026-09-14: VSCode in the browser + workspace
+* [Codesandbox](https://github.com/CompuIves/codesandbox-client) ⭐ 13,640 | 🐛 615 | 🌐 JavaScript | 📅 2026-09-07
 * [Eclipse Che](https://github.com/eclipse/che/) ⭐ 7,168 | 🐛 177 | 🌐 TypeScript | 📅 2026-09-08: 很不错的云端 IDE
 * [codepan](https://github.com/egoist/codepan) ⭐ 1,202 | 🐛 68 | 🌐 JavaScript | 📅 2024-08-14: Like codepen and jsbin but works offline. <https://codepan.net>
 * <https://stackblitz.com/> : StackBlitz, Online IDE powered by Visual Studio Code
-  * [源码](https://github.com/stackblitz/core) ⭐ 10,881 | 🐛 841 | 📅 2024-06-09
+  * [源码](https://github.com/stackblitz/core) ⭐ 10,880 | 🐛 841 | 📅 2024-06-09
 * <https://codeanywhere.com/>
 
 ### IDE 辅助工具
 
 * [TabNine](https://github.com/zxqfl/TabNine/) ⚠️ Archived: 用深度学习进行自动补全。支持 VS Code, Sublime Text, Vim, Atom, Emacs
   * [GitHub Copilot](https://copilot.github.com/): 同上
-* [universal-ctags](https://github.com/universal-ctags/ctags) ⭐ 7,282 | 🐛 262 | 🌐 C | 📅 2026-09-13: Universal-ctags 是 Darren Hiebert 的 Exuberant-ctags 的继任
+* [universal-ctags](https://github.com/universal-ctags/ctags) ⭐ 7,283 | 🐛 262 | 🌐 C | 📅 2026-09-13: Universal-ctags 是 Darren Hiebert 的 Exuberant-ctags 的继任
 * [PacVim](https://github.com/jmoon018/PacVim) ⭐ 3,328 | 🐛 22 | 🌐 C++ | 📅 2024-03-23: 用游戏教你学 VIM
 * [NerdFonts](https://www.nerdfonts.com) 与 [cheat-sheet](https://www.nerdfonts.com/cheat-sheet): 程序员必备字体
   * [nerdfix](https://github.com/loichyan/nerdfix) ⭐ 474 | 🐛 2 | 🌐 Rust | 📅 2024-11-23: nerdfonts 升级用的工具
@@ -643,17 +643,17 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 下载工具
 
-* [Motrix](https://github.com/agalwood/Motrix) ⭐ 55,484 | 🐛 142 | 🌐 TypeScript | 📅 2026-09-14: 美观又强大的下载工具（目前没人维护，[作者创业中](https://github.com/agalwood/Motrix/issues/1396) ⭐ 55,484 | 🐛 142 | 🌐 TypeScript | 📅 2026-09-14）
-* [cobalt](https://github.com/imputnet/cobalt) ⭐ 43,147 | 🐛 270 | 🌐 Svelte | 📅 2026-04-06: 开源的下载视音频网站资源的工具「待评价」
-* [aria2](https://github.com/aria2/aria2) ⭐ 42,253 | 🐛 1,177 | 🌐 C++ | 📅 2026-06-25: 最强大的下载工具
-  * [AriaNg](https://github.com/mayswind/AriaNg) ⭐ 13,187 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-12: aria2 的前端界面
+* [Motrix](https://github.com/agalwood/Motrix) ⭐ 55,502 | 🐛 140 | 🌐 TypeScript | 📅 2026-09-15: 美观又强大的下载工具（目前没人维护，[作者创业中](https://github.com/agalwood/Motrix/issues/1396) ⭐ 55,502 | 🐛 140 | 🌐 TypeScript | 📅 2026-09-15）
+* [cobalt](https://github.com/imputnet/cobalt) ⭐ 43,210 | 🐛 269 | 🌐 Svelte | 📅 2026-04-06: 开源的下载视音频网站资源的工具「待评价」
+* [aria2](https://github.com/aria2/aria2) ⭐ 42,328 | 🐛 1,178 | 🌐 C++ | 📅 2026-06-25: 最强大的下载工具
+  * [AriaNg](https://github.com/mayswind/AriaNg) ⭐ 13,188 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-12: aria2 的前端界面
   * [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) ⭐ 3,437 | 🐛 12 | 🌐 Shell | 📅 2024-02-28: aria2 参考配置
   * [aria2-in-container](https://github.com/adoyle-h/aria2-in-container) ⭐ 0 | 🐛 0 | 🌐 Dockerfile | 📅 2024-02-29: aria2 + ariang 的 Docker 镜像
 * bt tracker: BT 下载必须设置 tracker，否则没有速度。
-  * <https://github.com/ngosang/trackerslist> ⭐ 55,109 | 🐛 5 | 📅 2026-09-14
-  * <https://github.com/XIU2/TrackersListCollection> ⭐ 32,118 | 🐛 1 | 📅 2026-09-14
+  * <https://github.com/ngosang/trackerslist> ⭐ 55,119 | 🐛 5 | 📅 2026-09-15
+  * <https://github.com/XIU2/TrackersListCollection> ⭐ 32,121 | 🐛 1 | 📅 2026-09-15
 * <https://y2meta.app/> : Youtube 下载工具，在线服务。支持 1080p，没广告，没套路，下载速度很快
-  * [youtube-dl](https://github.com/rg3/youtube-dl) ⭐ 141,219 | 🐛 4,125 | 🌐 Python | 📅 2026-02-19: 开源的视频下载工具，命令行操作
+  * [youtube-dl](https://github.com/rg3/youtube-dl) ⭐ 141,234 | 🐛 4,125 | 🌐 Python | 📅 2026-02-19: 开源的视频下载工具，命令行操作
   * <https://snapsave.io/> : 备选方案，在线服务
 * <https://downsub.com/> : Youtube 字幕下载，支持各种语言以及双语字幕
 * <https://bilibili.iiilab.com/> : 下载 B 站视频，需要关注微信公众号
@@ -665,13 +665,13 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 终端 Terminal
 
-* [Windows Terminal](https://github.com/microsoft/terminal) ⭐ 104,889 | 🐛 1,753 | 🌐 C++ | 📅 2026-09-12: Windows 系统，推荐用这个终端 `ⓦ`
-  * [cmder](https://github.com/cmderdev/cmder) ⭐ 27,009 | 🐛 67 | 🌐 PowerShell | 📅 2026-08-31: 备选方案
-* [tabby](https://github.com/Eugeny/tabby) ⭐ 74,471 | 🐛 2,828 | 🌐 TypeScript | 📅 2026-09-14: 前端技术栈做的终端，可以用 CSS 定制界面，功能完善，支持 Windows/MacOS/Linux。注意：关闭「输入时滚动」选项，否则很容易屏幕闪烁。缺点：无法输入中文标点。
+* [Windows Terminal](https://github.com/microsoft/terminal) ⭐ 104,898 | 🐛 1,753 | 🌐 C++ | 📅 2026-09-14: Windows 系统，推荐用这个终端 `ⓦ`
+  * [cmder](https://github.com/cmderdev/cmder) ⭐ 27,009 | 🐛 67 | 🌐 PowerShell | 📅 2026-09-14: 备选方案
+* [tabby](https://github.com/Eugeny/tabby) ⭐ 74,495 | 🐛 2,828 | 🌐 TypeScript | 📅 2026-09-14: 前端技术栈做的终端，可以用 CSS 定制界面，功能完善，支持 Windows/MacOS/Linux。注意：关闭「输入时滚动」选项，否则很容易屏幕闪烁。缺点：无法输入中文标点。
 * [edex-ui](https://github.com/GitSquared/edex-ui) ⚠️ Archived: 非常酷！
-* [Hyper](https://github.com/zeit/hyper) ⭐ 44,727 | 🐛 1,045 | 🌐 TypeScript | 📅 2026-08-21: 用前端技术栈做的终端。非常酷炫 `⨀`
-  * [awesome-hyper](https://github.com/bnb/awesome-hyper) ⭐ 11,002 | 🐛 23 | 📅 2022-09-20
-* [xterm.js](https://github.com/xtermjs/xterm.js) ⭐ 21,172 | 🐛 254 | 🌐 TypeScript | 📅 2026-09-13: A terminal for the web
+* [Hyper](https://github.com/zeit/hyper) ⭐ 44,731 | 🐛 1,046 | 🌐 TypeScript | 📅 2026-08-21: 用前端技术栈做的终端。非常酷炫 `⨀`
+  * [awesome-hyper](https://github.com/bnb/awesome-hyper) ⭐ 11,003 | 🐛 23 | 📅 2022-09-20
+* [xterm.js](https://github.com/xtermjs/xterm.js) ⭐ 21,176 | 🐛 254 | 🌐 TypeScript | 📅 2026-09-13: A terminal for the web
 * [iTerm2](https://www.iterm2.com): Mac 系统专用的终端，功能丰富，稳定 `Ⓜ`
 * [Ghostty](https://ghostty.org/): 零配置、跨平台、开箱即用的终端
 * [Wave](https://www.waveterm.dev/): 集成 AI、文件浏览器、网页浏览器的终端。开源、跨平台。**缺点：无法输入中文标点。**
@@ -680,9 +680,9 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## diff
 
-* [delta](https://github.com/dandavison/delta) ⭐ 32,177 | 🐛 441 | 🌐 Rust | 📅 2026-09-13: 语义化 Diff，功能丰富。Git 配置不友好。支持双列、git blame、git grep。
-  * [difftastic](https://github.com/Wilfred/difftastic) ⭐ 25,896 | 🐛 291 | 🌐 Rust | 📅 2026-09-14: 基于 tree-sitter 的 diff。Git 配置不友好
-  * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,087 | 🐛 5 | 🌐 Perl | 📅 2026-08-31: 备选方案。diff 文件内容的着色增强工具，不支持语义化 diff。不支持双列 (side-by-side)。
+* [delta](https://github.com/dandavison/delta) ⭐ 32,185 | 🐛 442 | 🌐 Rust | 📅 2026-09-13: 语义化 Diff，功能丰富。Git 配置不友好。支持双列、git blame、git grep。
+  * [difftastic](https://github.com/Wilfred/difftastic) ⭐ 25,900 | 🐛 291 | 🌐 Rust | 📅 2026-09-14: 基于 tree-sitter 的 diff。Git 配置不友好
+  * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,087 | 🐛 5 | 🌐 Perl | 📅 2026-09-14: 备选方案。diff 文件内容的着色增强工具，不支持语义化 diff。不支持双列 (side-by-side)。
 * [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) ⭐ 604 | 🐛 16 | 🌐 TypeScript | 📅 2026-02-06: 将 diff 文件转成 HTML 页面的形式预览。非常漂亮
   * <https://diffy.org/> : 在线服务，支持链接共享。
 * diff: linux 内置命令
@@ -692,7 +692,7 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### image diff
 
-* [pixelmatch](https://github.com/mapbox/pixelmatch) ⭐ 6,945 | 🐛 14 | 🌐 JavaScript | 📅 2026-07-07
+* [pixelmatch](https://github.com/mapbox/pixelmatch) ⭐ 6,946 | 🐛 14 | 🌐 JavaScript | 📅 2026-07-07
   * [image-diff](https://github.com/uber-archive/image-diff) ⚠️ Archived
 * <https://www.diffchecker.com/image-diff/> : 在线服务，图片 diff
 
@@ -700,12 +700,12 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### 二进制分析
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 75,463 | 🐛 1,956 | 🌐 Java | 📅 2026-09-11: 美国国家安全局开源的逆向工程框架
-* [radare2](https://github.com/radareorg/radare2) ⭐ 24,795 | 🐛 824 | 🌐 C | 📅 2026-09-14: 逆向解析二进制文件的命令行工具集
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 76,159 | 🐛 1,962 | 🌐 Java | 📅 2026-09-14: 美国国家安全局开源的逆向工程框架
+* [radare2](https://github.com/radareorg/radare2) ⭐ 24,796 | 🐛 824 | 🌐 C | 📅 2026-09-14: 逆向解析二进制文件的命令行工具集
   * [iaito](https://github.com/radareorg/iaito) ⭐ 1,704 | 🐛 5 | 🌐 C++ | 📅 2026-09-06: radare2 的 GUI 工具。跨平台，功能非常强大。ARM 架构的 MacOS 需要自己编译，很简单的。
   * [Radare2 official book](https://book.rada.re/)
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,337 | 🐛 92 | 🌐 Rust | 📅 2026-08-11: 固件分析工具。
-* [kaitai](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,680 | 🐛 530 | 🌐 Shell | 📅 2026-08-31: 可以用 YAML 描述二进制文件的格式，从而解析二进制文件提取出自己想要的信息。它根据 YAML 生成各种语言的库。
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,339 | 🐛 93 | 🌐 Rust | 📅 2026-08-11: 固件分析工具。
+* [kaitai](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,681 | 🐛 530 | 🌐 Shell | 📅 2026-08-31: 可以用 YAML 描述二进制文件的格式，从而解析二进制文件提取出自己想要的信息。它根据 YAML 生成各种语言的库。
   * <https://kaitai.io/>
   * 有很多[应用场景](https://formats.kaitai.io/)。模型，归档文件，安装包，文件系统，字体，图片，数据库，日志，网络协议。
   * Web IDE：<https://ide.kaitai.io/>
@@ -713,13 +713,13 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 结构化数据处理
 
-* [miller](https://github.com/johnkerl/miller) ⭐ 10,018 | 🐛 72 | 🌐 Go | 📅 2026-09-09: 「待评价，看起来参数很复杂」like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed.
-* [dasel](https://github.com/TomWright/dasel) ⭐ 8,031 | 🐛 25 | 🌐 Go | 📅 2026-08-16: JSON, TOML, YAML, XML, CSV 增删改查、格式转换工具。缺点：无法直接 put 数组。
-* [Structured text tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,144 | 🐛 7 | 📅 2026-08-12
+* [miller](https://github.com/johnkerl/miller) ⭐ 10,018 | 🐛 72 | 🌐 Go | 📅 2026-09-14: 「待评价，看起来参数很复杂」like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed.
+* [dasel](https://github.com/TomWright/dasel) ⭐ 8,033 | 🐛 25 | 🌐 Go | 📅 2026-08-16: JSON, TOML, YAML, XML, CSV 增删改查、格式转换工具。缺点：无法直接 put 数组。
+* [Structured text tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,145 | 🐛 7 | 📅 2026-08-12
 * [Awesome JSON - What's Next?](https://github.com/json-next/awesome-json-next) ⭐ 70 | 🐛 1 | 📅 2021-02-23
 * 我喜欢的面向人类的配置文件语法
   * [TOML](https://github.com/toml-lang/toml) ⭐ 20,613 | 🐛 6 | 📅 2026-09-11
-  * [HCL](https://github.com/hashicorp/hcl) ⭐ 5,806 | 🐛 235 | 🌐 Go | 📅 2026-09-14: 类似 Nginx 的语法配置，Hashicorp 出品
+  * [HCL](https://github.com/hashicorp/hcl) ⭐ 5,805 | 🐛 234 | 🌐 Go | 📅 2026-09-14: 类似 Nginx 的语法配置，Hashicorp 出品
   * [YAML](http://yaml.org/)
   * [INI](https://www.wikiwand.com/zh-hans/INI%E6%96%87%E4%BB%B6)
 * 面向机器数据结构语法
@@ -727,7 +727,7 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### YAML
 
-* [yq](https://github.com/mikefarah/yq) ⭐ 15,956 | 🐛 302 | 🌐 Go | 📅 2026-09-10: 类似 jq
+* [yq](https://github.com/mikefarah/yq) ⭐ 15,958 | 🐛 297 | 🌐 Go | 📅 2026-09-15: 类似 jq
 * [yaml-sucks](https://github.com/cblp/yaml-sucks) ⭐ 656 | 🐛 4 | 🌐 Shell | 📅 2024-12-12: YAML 的缺点列表
 * <http://yaml-online-parser.appspot.com/>
 * [yamline](https://yamline.com/): 在线 YAML 工具
@@ -738,11 +738,11 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### JSON
 
-* [simdjson](https://github.com/lemire/simdjson) ⭐ 24,250 | 🐛 137 | 🌐 C++ | 📅 2026-09-07: Parsing gigabytes of JSON. 2.2GB/s
-* [fx](https://github.com/antonmedv/fx) ⭐ 20,625 | 🐛 30 | 🌐 Go | 📅 2026-08-26: JSON Viewer，体验最好
-  * [jq](https://github.com/stedolan/jq) ⭐ 35,596 | 🐛 480 | 🌐 C | 📅 2026-09-01: JSON Viewer，命令行，无交互
+* [simdjson](https://github.com/lemire/simdjson) ⭐ 24,253 | 🐛 139 | 🌐 C++ | 📅 2026-09-15: Parsing gigabytes of JSON. 2.2GB/s
+* [fx](https://github.com/antonmedv/fx) ⭐ 20,623 | 🐛 32 | 🌐 Go | 📅 2026-08-26: JSON Viewer，体验最好
+  * [jq](https://github.com/stedolan/jq) ⭐ 35,605 | 🐛 479 | 🌐 C | 📅 2026-09-15: JSON Viewer，命令行，无交互
   * [jid](https://github.com/simeji/jid) ⭐ 7,140 | 🐛 10 | 🌐 Go | 📅 2026-08-02: 交互式 JSON Viewer
-  * [jless](https://github.com/PaulJuliusMartinez/jless) ⭐ 5,478 | 🐛 94 | 🌐 Rust | 📅 2026-09-07: 类似 fx。备选方案。
+  * [jless](https://github.com/PaulJuliusMartinez/jless) ⭐ 5,486 | 🐛 94 | 🌐 Rust | 📅 2026-09-07: 类似 fx。备选方案。
   * [jiq](https://github.com/fiatjaf/jiq) ⚠️ Archived: It's jid with jq.
 * [JSON5](https://github.com/json5/json5) ⭐ 7,162 | 🐛 39 | 🌐 JavaScript | 📅 2024-10-25: JSON for humans. (Not an official successor to JSON.)
 * [hjson](https://github.com/hjson/hjson) ⭐ 2,856 | 🐛 26 | 🌐 HTML | 📅 2026-04-20: 比 JSON5 更丰富，且相对更标准，有 [RFC 文档](https://hjson.github.io/rfc.html)。
@@ -769,23 +769,23 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## Lint
 
-* [shellcheck](https://github.com/koalaman/shellcheck) ⭐ 40,035 | 🐛 1,140 | 🌐 Haskell | 📅 2026-08-04: linux shell script lint
-* [commitlint](https://github.com/conventional-changelog/commitlint) ⭐ 18,737 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-14: Lint git commit messages
-* [hadolint](https://github.com/hadolint/hadolint) ⭐ 12,400 | 🐛 208 | 🌐 Haskell | 📅 2026-08-24: Dockerfile Lint <a name="commitlint"></a>
-* [stylelint](https://github.com/stylelint/stylelint) ⭐ 11,519 | 🐛 135 | 🌐 JavaScript | 📅 2026-09-12
-  * [csslint](https://github.com/CSSLint/csslint) ⭐ 4,812 | 🐛 227 | 🌐 JavaScript | 📅 2024-12-05: 备用
-* [checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 9,569 | 🐛 753 | 🌐 Java | 📅 2026-09-14: Java code lint
+* [shellcheck](https://github.com/koalaman/shellcheck) ⭐ 40,037 | 🐛 1,140 | 🌐 Haskell | 📅 2026-08-04: linux shell script lint
+* [commitlint](https://github.com/conventional-changelog/commitlint) ⭐ 18,738 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-14: Lint git commit messages
+* [hadolint](https://github.com/hadolint/hadolint) ⭐ 12,403 | 🐛 208 | 🌐 Haskell | 📅 2026-08-24: Dockerfile Lint <a name="commitlint"></a>
+* [stylelint](https://github.com/stylelint/stylelint) ⭐ 11,518 | 🐛 137 | 🌐 JavaScript | 📅 2026-09-12
+  * [csslint](https://github.com/CSSLint/csslint) ⭐ 4,813 | 🐛 227 | 🌐 JavaScript | 📅 2024-12-05: 备用
+* [checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 9,566 | 🐛 755 | 🌐 Java | 📅 2026-09-15: Java code lint
 * [proselint](https://github.com/amperser/proselint) ⭐ 4,576 | 🐛 236 | 🌐 JavaScript | 📅 2026-09-04: 英文语法检查
   * [alex](https://github.com/get-alex/alex) ⭐ 5,101 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27: 英文语法检查
   * [write-good](https://github.com/btford/write-good) ⭐ 5,090 | 🐛 24 | 🌐 JavaScript | 📅 2025-03-10: 备选方案
-* [ansible-lint](https://github.com/ansible/ansible-lint) ⭐ 3,905 | 🐛 112 | 🌐 Python | 📅 2026-09-14
-* [yamllint](https://github.com/adrienverge/yamllint) ⭐ 3,456 | 🐛 167 | 🌐 Python | 📅 2026-08-19: YAML lint
+* [ansible-lint](https://github.com/ansible/ansible-lint) ⭐ 3,906 | 🐛 113 | 🌐 Python | 📅 2026-09-15
+* [yamllint](https://github.com/adrienverge/yamllint) ⭐ 3,459 | 🐛 167 | 🌐 Python | 📅 2026-08-19: YAML lint
 * [HTMLHint](https://github.com/yaniswang/HTMLHint) ⭐ 3,309 | 🐛 41 | 🌐 JavaScript | 📅 2026-09-11: HTML lint
-  * [tidy](https://github.com/htacg/tidy-html5) ⭐ 2,848 | 🐛 242 | 🌐 C | 📅 2024-05-04: 不明觉厉的 HTML lint。备用
-* [markdownlint](https://github.com/mivok/markdownlint) ⭐ 2,077 | 🐛 109 | 🌐 Ruby | 📅 2026-09-07: markdown lint
+  * [tidy](https://github.com/htacg/tidy-html5) ⭐ 2,847 | 🐛 241 | 🌐 C | 📅 2024-05-04: 不明觉厉的 HTML lint。备用
+* [markdownlint](https://github.com/mivok/markdownlint) ⭐ 2,076 | 🐛 109 | 🌐 Ruby | 📅 2026-09-07: markdown lint
 * [jsonlint](https://github.com/zaach/jsonlint) ⭐ 1,992 | 🐛 80 | 🌐 JavaScript | 📅 2022-07-12: JSON lint
-* [vint](https://github.com/Kuniwak/vint) ⭐ 706 | 🐛 90 | 🌐 Python | 📅 2023-12-29: vim script lint
-* [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) ⭐ 640 | 🐛 28 | 🌐 Go | 📅 2026-09-14: 兼容 .editorconfig，且可忽略文件。它提供额外的配置选项 .ecrc
+* [vint](https://github.com/Kuniwak/vint) ⭐ 707 | 🐛 90 | 🌐 Python | 📅 2023-12-29: vim script lint
+* [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) ⭐ 639 | 🐛 28 | 🌐 Go | 📅 2026-09-14: 兼容 .editorconfig，且可忽略文件。它提供额外的配置选项 .ecrc
 * [editorconfig](http://editorconfig.org/): 最基础的代码风格规约
 * [在线 JSON Lint](http://pro.jsonlint.com)
 
@@ -793,12 +793,12 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 * [jsoning](https://jsoning.com/api/): Mock API for testing and prototyping
 * [insomnia](https://insomnia.rest): Mock, Test & Track HTTP Requests and Responses
-  * <https://github.com/Kong/insomnia-mockbin> ⭐ 2,048 | 🐛 50 | 🌐 JavaScript | 📅 2026-08-31
+  * <https://github.com/Kong/insomnia-mockbin> ⭐ 2,048 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-15
 
 ## 网站
 
-* [rrweb](https://github.com/rrweb-io/rrweb) ⭐ 20,161 | 🐛 419 | 🌐 TypeScript | 📅 2026-09-10: 网页浏览录制和回放
-  * [Open Replay](https://github.com/openreplay/openreplay) ⭐ 12,843 | 🐛 180 | 🌐 TypeScript | 📅 2026-09-14
+* [rrweb](https://github.com/rrweb-io/rrweb) ⭐ 20,166 | 🐛 420 | 🌐 TypeScript | 📅 2026-09-10: 网页浏览录制和回放
+  * [Open Replay](https://github.com/openreplay/openreplay) ⭐ 12,858 | 🐛 181 | 🌐 TypeScript | 📅 2026-09-15
 * [pageres](https://github.com/sindresorhus/pageres) ⭐ 9,728 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-09: 网页截屏
 * [sitemap.js](https://github.com/ekalinin/sitemap.js) ⭐ 1,711 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-13: 生成 sitemap 的工具
 * [temme](https://github.com/shinima/temme) ⭐ 271 | 🐛 3 | 🌐 TypeScript | 📅 2024-07-06: 利用 CSS 语法，从 HTML 提取出 JSON 数据
@@ -810,16 +810,16 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### 访问统计
 
-* [umami](https://github.com/mikecao/umami) ⭐ 38,804 | 🐛 125 | 🌐 TypeScript | 📅 2026-09-14: website analytics alternative to Google Analytics.
-* [rybbit](https://github.com/rybbit-io/rybbit) ⭐ 12,995 | 🐛 201 | 🌐 TypeScript | 📅 2026-09-14: 界面设计和功能都很优秀
+* [umami](https://github.com/mikecao/umami) ⭐ 38,823 | 🐛 126 | 🌐 TypeScript | 📅 2026-09-15: website analytics alternative to Google Analytics.
+* [rybbit](https://github.com/rybbit-io/rybbit) ⭐ 13,009 | 🐛 203 | 🌐 TypeScript | 📅 2026-09-14: 界面设计和功能都很优秀
 * [不蒜子 busuanzi](https://busuanzi.ibruce.info/): 两行代码搞定站点访问统计
 
 ## SSL
 
-* [mkcert](https://github.com/FiloSottile/mkcert) ⭐ 59,593 | 🐛 177 | 🌐 Go | 📅 2024-08-13: 零配置生成自签名证书。默认有效时间 825 天。
-* [lego](https://github.com/go-acme/lego) ⭐ 9,867 | 🐛 103 | 🌐 Go | 📅 2026-09-10: 免费证书生成工具。简单好用，文档清晰。
-  * [acme.sh](https://github.com/Neilpang/acme.sh) ⭐ 47,636 | 🐛 98 | 🌐 Shell | 📅 2026-09-13: 备选方案。支持 ZeroSSL.com、Letsencrypt.org、BuyPass.com、SSL.com、Pebble strict Mode，以及其他遵循 RFC8555 的 CA。支持模式 Webroot，Standalone，Standalone tls-alp，Apach，Nginx，DNS，DNS alias，Stateless。
-  * [certbot](https://github.com/certbot/certbot) ⭐ 33,231 | 🐛 184 | 🌐 Python | 📅 2026-09-09: 备选方案。letsencrypt 官方证书生成工具
+* [mkcert](https://github.com/FiloSottile/mkcert) ⭐ 59,595 | 🐛 177 | 🌐 Go | 📅 2024-08-13: 零配置生成自签名证书。默认有效时间 825 天。
+* [lego](https://github.com/go-acme/lego) ⭐ 9,868 | 🐛 104 | 🌐 Go | 📅 2026-09-10: 免费证书生成工具。简单好用，文档清晰。
+  * [acme.sh](https://github.com/Neilpang/acme.sh) ⭐ 47,649 | 🐛 100 | 🌐 Shell | 📅 2026-09-13: 备选方案。支持 ZeroSSL.com、Letsencrypt.org、BuyPass.com、SSL.com、Pebble strict Mode，以及其他遵循 RFC8555 的 CA。支持模式 Webroot，Standalone，Standalone tls-alp，Apach，Nginx，DNS，DNS alias，Stateless。
+  * [certbot](https://github.com/certbot/certbot) ⭐ 33,235 | 🐛 179 | 🌐 Python | 📅 2026-09-09: 备选方案。letsencrypt 官方证书生成工具
   * [dehydrated](https://github.com/lukas2511/dehydrated) ⭐ 6,249 | 🐛 85 | 🌐 Shell | 📅 2026-04-30: 备选方案
 * [Fishdrowned/ssl](https://github.com/Fishdrowned/ssl) ⭐ 537 | 🐛 4 | 🌐 Shell | 📅 2024-07-26: 零配置生成自签名证书。比 mkcert 提供更丰富的配置选项。
 
@@ -836,13 +836,13 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 文件同步/备份/快照
 
-* [syncthing](https://github.com/syncthing/syncthing) ⭐ 88,552 | 🐛 381 | 🌐 Go | 📅 2026-09-14: 文件自动同步
-* [rclone](https://github.com/rclone/rclone) ⭐ 59,747 | 🐛 1,262 | 🌐 Go | 📅 2026-09-14: rsync for cloud storage. To sync files and directories to and from different cloud storage providers.
-* [restic](https://github.com/restic/restic) ⭐ 36,043 | 🐛 596 | 🌐 Go | 📅 2026-09-01: 简单易用的备份工具。支持快照，加密。可与 rclone 搭配。不支持软链接，restore 会[报错](https://github.com/restic/restic/issues/2578) ⭐ 36,043 | 🐛 596 | 🌐 Go | 📅 2026-09-01。
-  * [backrest](https://github.com/garethgeorge/backrest) ⭐ 7,326 | 🐛 362 | 🌐 TypeScript | 📅 2026-09-07: 集成 restic 和 rclone 的 WebUI。操作简单。
-  * [rest-server](https://github.com/restic/rest-server) ⭐ 1,491 | 🐛 65 | 🌐 Go | 📅 2026-07-22: a high performance HTTP server that implements restic's REST backend API. 用于备份到远端。
-* [borg](https://github.com/borgbackup/borg) ⭐ 13,711 | 🐛 209 | 🌐 Python | 📅 2026-09-14: 备选方案
-* [timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,276 | 🐛 231 | 🌐 Vala | 📅 2026-09-05: 备选方案。基于 rsync + hard link。支持快照、增量备份、BTRFS、自定义路径（默认屏蔽用户目录）。**不支持云存储**
+* [syncthing](https://github.com/syncthing/syncthing) ⭐ 88,597 | 🐛 382 | 🌐 Go | 📅 2026-09-15: 文件自动同步
+* [rclone](https://github.com/rclone/rclone) ⭐ 59,763 | 🐛 1,268 | 🌐 Go | 📅 2026-09-14: rsync for cloud storage. To sync files and directories to and from different cloud storage providers.
+* [restic](https://github.com/restic/restic) ⭐ 36,050 | 🐛 596 | 🌐 Go | 📅 2026-09-01: 简单易用的备份工具。支持快照，加密。可与 rclone 搭配。不支持软链接，restore 会[报错](https://github.com/restic/restic/issues/2578) ⭐ 36,050 | 🐛 596 | 🌐 Go | 📅 2026-09-01。
+  * [backrest](https://github.com/garethgeorge/backrest) ⭐ 7,337 | 🐛 364 | 🌐 TypeScript | 📅 2026-09-14: 集成 restic 和 rclone 的 WebUI。操作简单。
+  * [rest-server](https://github.com/restic/rest-server) ⭐ 1,490 | 🐛 65 | 🌐 Go | 📅 2026-07-22: a high performance HTTP server that implements restic's REST backend API. 用于备份到远端。
+* [borg](https://github.com/borgbackup/borg) ⭐ 13,714 | 🐛 214 | 🌐 Python | 📅 2026-09-15: 备选方案
+* [timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,277 | 🐛 231 | 🌐 Vala | 📅 2026-09-05: 备选方案。基于 rsync + hard link。支持快照、增量备份、BTRFS、自定义路径（默认屏蔽用户目录）。**不支持云存储**
 * tar
   * 参考文章: <https://archive.ph/7R49W>
 * rsync
@@ -852,7 +852,7 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
   * [Clonezilla](https://clonezilla.org/): 备选方案。备份和恢复系统。命令行交互菜单。全盘备份，不支持按文件备份，不支持快照。使用命令行备份貌似难度很高。还原到不同大小分区也可能出问题。
 * [FreeFileSync](https://freefilesync.org/): 跨平台、开源。同步目录文件，可以 diff 文件列表。GUI 工具。
 * 其他备份工具
-  * [backintime](https://github.com/bit-team/backintime) ⭐ 2,664 | 🐛 143 | 🌐 Python | 📅 2026-09-09: 备选方案
+  * [backintime](https://github.com/bit-team/backintime) ⭐ 2,663 | 🐛 143 | 🌐 Python | 📅 2026-09-09: 备选方案
   * <https://github.com/restic/others> ⭐ 757 | 🐛 13 | 📅 2023-11-05
 
 ## 数据恢复
@@ -863,38 +863,38 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 * mkisofs: 制作 ISO 镜像。Linux 命令
 * 制作启动 U 盘
-  * [Ventoy](https://github.com/ventoy/Ventoy) ⭐ 79,293 | 🐛 1,026 | 🌐 C | 📅 2026-08-06: 支持多个不同类型的镜像共存。只支持在 Windows/Linux/虚拟机 制作。
-  * [rufus](https://github.com/pbatard/rufus) ⭐ 37,637 | 🐛 12 | 🌐 C | 📅 2026-09-09: 操作简单，可配置。只支持在 Windows 制作。
-  * [etcher](https://github.com/balena-io/etcher) ⭐ 34,340 | 🐛 691 | 🌐 TypeScript | 📅 2026-06-02: 一键操作，不可配置。支持在 Windows/MacOS/Linux（不支持命令行）制作。
+  * [Ventoy](https://github.com/ventoy/Ventoy) ⭐ 79,309 | 🐛 1,029 | 🌐 C | 📅 2026-08-06: 支持多个不同类型的镜像共存。只支持在 Windows/Linux/虚拟机 制作。
+  * [rufus](https://github.com/pbatard/rufus) ⭐ 37,649 | 🐛 12 | 🌐 C | 📅 2026-09-09: 操作简单，可配置。只支持在 Windows 制作。
+  * [etcher](https://github.com/balena-io/etcher) ⭐ 34,344 | 🐛 691 | 🌐 TypeScript | 📅 2026-06-02: 一键操作，不可配置。支持在 Windows/MacOS/Linux（不支持命令行）制作。
   * [bootiso](https://github.com/jsamr/bootiso) ⚠️ Archived: 只支持在 Linux 制作，且用于安装 Linux 系统。
 
 ## 数据库/存储
 
-* [rustfs](https://github.com/rustfs/rustfs) ⭐ 32,102 | 🐛 35 | 🌐 Rust | 📅 2026-09-14: 对象存储，高性能，K8S-Native，兼容 S3
+* [rustfs](https://github.com/rustfs/rustfs) ⭐ 32,211 | 🐛 26 | 🌐 Rust | 📅 2026-09-15: 对象存储，高性能，K8S-Native，兼容 S3
 
-* [dolt](https://github.com/dolthub/dolt) ⭐ 24,434 | 🐛 606 | 🌐 Go | 📅 2026-09-12: 功能类似 Git 的数据库
+* [dolt](https://github.com/dolthub/dolt) ⭐ 24,441 | 🐛 618 | 🌐 Go | 📅 2026-09-15: 功能类似 Git 的数据库
 
-* [turso](https://github.com/tursodatabase/turso) ⭐ 24,274 | 🐛 930 | 🌐 Rust | 📅 2026-09-14: an in-process SQL database, compatible with SQLite.
+* [turso](https://github.com/tursodatabase/turso) ⭐ 24,282 | 🐛 946 | 🌐 Rust | 📅 2026-09-15: an in-process SQL database, compatible with SQLite.
 
-* [vitess](https://github.com/vitessio/vitess) ⭐ 21,331 | 🐛 1,098 | 🌐 Go | 📅 2026-09-14: MySQL Sharding Proxy。支持 k8s。Youtube 2011 年就开始跑了。
+* [vitess](https://github.com/vitessio/vitess) ⭐ 21,334 | 🐛 1,110 | 🌐 Go | 📅 2026-09-15: MySQL Sharding Proxy。支持 k8s。Youtube 2011 年就开始跑了。
 
-* [ceph](https://github.com/ceph/ceph) ⭐ 17,033 | 🐛 1,377 | 🌐 C++ | 📅 2026-09-14: 块存储，对象存储，文件存储
+* [ceph](https://github.com/ceph/ceph) ⭐ 17,040 | 🐛 1,399 | 🌐 C++ | 📅 2026-09-15: 块存储，对象存储，文件存储
 
   ### postgres
 
-* [pgcli](https://github.com/dbcli/pgcli) ⭐ 13,384 | 🐛 42 | 🌐 Python | 📅 2026-09-09: postgres 命令行客户端
+* [pgcli](https://github.com/dbcli/pgcli) ⭐ 13,386 | 🐛 42 | 🌐 Python | 📅 2026-09-09: postgres 命令行客户端
 
-* [mycli](https://github.com/dbcli/mycli) ⭐ 11,975 | 🐛 2 | 🌐 Python | 📅 2026-09-14: mysql 命令行客户端
+* [mycli](https://github.com/dbcli/mycli) ⭐ 11,975 | 🐛 0 | 🌐 Python | 📅 2026-09-14: mysql 命令行客户端
 
-* [pgweb](https://github.com/sosedoff/pgweb) ⭐ 9,502 | 🐛 56 | 🌐 Go | 📅 2026-07-26: postgres web 客户端
+* [pgweb](https://github.com/sosedoff/pgweb) ⭐ 9,501 | 🐛 56 | 🌐 Go | 📅 2026-07-26: postgres web 客户端
 
-* [RedisInsight](https://github.com/RedisInsight/RedisInsight) ⭐ 8,835 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-14: Redis GUI by Redis。支持 Docker 部署。
+* [RedisInsight](https://github.com/RedisInsight/RedisInsight) ⭐ 8,837 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-14: Redis GUI by Redis。支持 Docker 部署。
 
 * [SQL 速查表](https://github.com/enochtangg/quick-SQL-cheatsheet/blob/master/README_zh-hans.md) ⭐ 5,459 | 🐛 11 | 📅 2020-10-01
 
-* [pgbackrest](https://github.com/pgbackrest/pgbackrest) ⭐ 4,376 | 🐛 28 | 🌐 C | 📅 2026-09-14: 备份工具
+* [pgbackrest](https://github.com/pgbackrest/pgbackrest) ⭐ 4,378 | 🐛 25 | 🌐 C | 📅 2026-09-15: 备份工具
 
-* [pgbarman](https://github.com/EnterpriseDB/barman) ⭐ 3,241 | 🐛 40 | 🌐 Python | 📅 2026-08-27: 备份工具
+* [pgbarman](https://github.com/EnterpriseDB/barman) ⭐ 3,242 | 🐛 40 | 🌐 Python | 📅 2026-08-27: 备份工具
 
 * [UNQLite](https://github.com/symisc/unqlite) ⭐ 2,315 | 🐛 30 | 🌐 C | 📅 2026-09-05:
 
@@ -913,26 +913,26 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### 数据库设计
 
-* <https://dbdiagram.io/> : 在线 ER 建模工具，通过 [dbml](https://github.com/holistics/dbml) ⭐ 3,696 | 🐛 105 | 🌐 JavaScript | 📅 2026-09-11 语法构建 ER 图。支持导出 SQL。
+* <https://dbdiagram.io/> : 在线 ER 建模工具，通过 [dbml](https://github.com/holistics/dbml) ⭐ 3,700 | 🐛 105 | 🌐 JavaScript | 📅 2026-09-15 语法构建 ER 图。支持导出 SQL。
 * [sqldbm](https://sqldbm.com/en/Home/): 目前做的最好（没有之一）的 ER 建模工具，目前免费。
 
 ### Database Versioning
 
-* [migrate](https://github.com/golang-migrate/migrate) ⭐ 18,920 | 🐛 492 | 🌐 Go | 📅 2026-09-09: 用 Go 写的，支持 SQL，支持命令行和 Go 编程。
-* [gh-ost](https://github.com/github/gh-ost) ⭐ 13,568 | 🐛 330 | 🌐 Go | 📅 2026-09-10: 与 flyway 不一样的实现方案，创建 shadow/ghost 表来作 schema migration。功能丰富。不基于 trigger，基于 bin-log。
-* [flyway](https://github.com/flyway/flyway) ⭐ 10,084 | 🐛 256 | 🌐 Java | 📅 2026-09-10: 用 Java 写的，支持 SQL 和 Java 写 migration。没有 revert 概念。
-* [sql-migrate](https://github.com/rubenv/sql-migrate) ⭐ 3,419 | 🐛 98 | 🌐 Go | 📅 2026-07-14: 用 Go 写的。备选
+* [migrate](https://github.com/golang-migrate/migrate) ⭐ 18,920 | 🐛 493 | 🌐 Go | 📅 2026-09-09: 用 Go 写的，支持 SQL，支持命令行和 Go 编程。
+* [gh-ost](https://github.com/github/gh-ost) ⭐ 13,570 | 🐛 330 | 🌐 Go | 📅 2026-09-10: 与 flyway 不一样的实现方案，创建 shadow/ghost 表来作 schema migration。功能丰富。不基于 trigger，基于 bin-log。
+* [flyway](https://github.com/flyway/flyway) ⭐ 10,086 | 🐛 258 | 🌐 Java | 📅 2026-09-10: 用 Java 写的，支持 SQL 和 Java 写 migration。没有 revert 概念。
+* [sql-migrate](https://github.com/rubenv/sql-migrate) ⭐ 3,418 | 🐛 98 | 🌐 Go | 📅 2026-07-14: 用 Go 写的。备选
 
 ## [网络](./network/README.md)
 
 ## ProtoBuf
 
-* [buf](https://github.com/bufbuild/buf) ⭐ 11,431 | 🐛 64 | 🌐 Go | 📅 2026-09-13: .proto 管理器
+* [buf](https://github.com/bufbuild/buf) ⭐ 11,432 | 🐛 62 | 🌐 Go | 📅 2026-09-14: .proto 管理器
 * [prototool](https://github.com/uber/prototool) ⚠️ Archived: .proto 管理器
 
 ## IM
 
-* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,118 | 🐛 4,027 | 🌐 TypeScript | 📅 2026-09-14: 开源版 Slack。built with Meteor，不支持推送
+* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,119 | 🐛 4,038 | 🌐 TypeScript | 📅 2026-09-15: 开源版 Slack。built with Meteor，不支持推送
 * Matrix Client
   * [Element](https://matrix.org/ecosystem/clients/element/): Matrix.org 官方出品，功能最全，UI 还不错。全平台支持。
   * [Cinny](https://app.cinny.in/): Web App，UI 简洁好看
@@ -940,8 +940,8 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
   * <https://iamb.chat/> : 运行在终端的客户端
 * Matrix Server
   * [dendrite](https://github.com/matrix-org/dendrite) ⚠️ Archived: Matrix homeserver written in Go
-  * [synapse](https://github.com/element-hq/synapse) ⭐ 4,602 | 🐛 2,091 | 🌐 Python | 📅 2026-09-14: Synapse: Matrix homeserver written in Python/Twisted
-  * [tuwunel](https://github.com/matrix-construct/tuwunel) ⭐ 2,523 | 🐛 71 | 🌐 Rust | 📅 2026-09-14: Official successor to [conduwuit](https://github.com/girlbossceo/conduwuit) ⚠️ Archived
+  * [synapse](https://github.com/element-hq/synapse) ⭐ 4,603 | 🐛 2,087 | 🌐 Python | 📅 2026-09-15: Synapse: Matrix homeserver written in Python/Twisted
+  * [tuwunel](https://github.com/matrix-construct/tuwunel) ⭐ 2,526 | 🐛 70 | 🌐 Rust | 📅 2026-09-15: Official successor to [conduwuit](https://github.com/girlbossceo/conduwuit) ⚠️ Archived
     * [tuwunel-admin](https://github.com/knadh/tuwunel-admin) ⭐ 39 | 🐛 1 | 🌐 Rust | 📅 2026-06-28: tuwunel 的 admin 后台界面
   * [conduit](https://gitlab.com/famedly/conduit): Matrix homeserver written in Rust
 
@@ -968,15 +968,15 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### 基准测试 (Benchmark Test)
 
-* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,855 | 🐛 97 | 🌐 Rust | 📅 2026-04-30: 对某个命令进行 Benchmark
-* [sysbench](https://github.com/akopytov/sysbench) ⭐ 6,791 | 🐛 217 | 🌐 C | 📅 2025-03-09: 对数据库和操作系统的 benchmark。支持 lua 脚本
-* [bench-scripts](https://github.com/haydenjames/bench-scripts) ⭐ 1,190 | 🐛 1 | 📅 2024-07-01: 对 Linux 系统进行 Benchmark 的脚本
+* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,863 | 🐛 97 | 🌐 Rust | 📅 2026-04-30: 对某个命令进行 Benchmark
+* [sysbench](https://github.com/akopytov/sysbench) ⭐ 6,792 | 🐛 217 | 🌐 C | 📅 2025-03-09: 对数据库和操作系统的 benchmark。支持 lua 脚本
+* [bench-scripts](https://github.com/haydenjames/bench-scripts) ⭐ 1,192 | 🐛 1 | 📅 2024-07-01: 对 Linux 系统进行 Benchmark 的脚本
 * [Programming Language and compiler](https://programming-language-benchmarks.vercel.app/): 对各种编程语言做 Benchmark。很全面。
 
 ### 压测 (Stress Test)
 
 * [FIO](https://github.com/axboe/fio) ⭐ 6,367 | 🐛 236 | 🌐 C | 📅 2026-09-11: 测试硬盘 IO。开源。
-* [stress-ng](https://github.com/ColinIanKing/stress-ng) ⭐ 2,763 | 🐛 2 | 🌐 C | 📅 2026-09-11: 对 CPU、内存、IO 的压力测试
+* [stress-ng](https://github.com/ColinIanKing/stress-ng) ⭐ 2,763 | 🐛 2 | 🌐 C | 📅 2026-09-14: 对 CPU、内存、IO 的压力测试
   * [stress](https://fossies.org/linux/privat/old/stress-1.0.4.tar.gz/stress-1.0.4/doc/stress.html)
 * [Geekbench](https://www.geekbench.com/): 对操作系统的压测工具。闭源。压测报告会自动上传到官网，多个压测报告可以进行比较。
 
@@ -1019,17 +1019,17 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 搜索引擎 Search Bar
 
-* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 77,913 | 🐛 6,065 | 🌐 Java | 📅 2026-09-14: 企业级搜索引擎。Java 实现
-* [MeiliSearch](https://github.com/meilisearch/meilisearch) ⭐ 59,290 | 🐛 321 | 🌐 Rust | 📅 2026-09-14: Rust 实现
-* [typesense](https://github.com/typesense/typesense) ⭐ 26,555 | 🐛 884 | 🌐 C++ | 📅 2026-09-01: 类似 algolia。C++ 实现的。索引全存内存。
+* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 77,919 | 🐛 6,083 | 🌐 Java | 📅 2026-09-15: 企业级搜索引擎。Java 实现
+* [MeiliSearch](https://github.com/meilisearch/meilisearch) ⭐ 59,290 | 🐛 323 | 🌐 Rust | 📅 2026-09-14: Rust 实现
+* [typesense](https://github.com/typesense/typesense) ⭐ 26,558 | 🐛 886 | 🌐 C++ | 📅 2026-09-01: 类似 algolia。C++ 实现的。索引全存内存。
   * 可自己托管，也可以选择 [typesense cloud](https://cloud.typesense.org/) 服务，但它没有靠近中国的数据中心。
-* [sonic](https://github.com/valeriansaliou/sonic) ⭐ 21,342 | 🐛 65 | 🌐 Rust | 📅 2026-09-10: Rust 实现。
+* [sonic](https://github.com/valeriansaliou/sonic) ⭐ 21,341 | 🐛 66 | 🌐 Rust | 📅 2026-09-15: Rust 实现。
 * [flexsearch](https://github.com/nextapps-de/flexsearch) ⭐ 13,791 | 🐛 38 | 🌐 JavaScript | 📅 2026-06-28: 类似 lunr.js。虽然支持中文，但分词功能可能需要自己开发。
-* [lunr.js](https://github.com/olivernn/lunr.js) ⭐ 9,201 | 🐛 130 | 🌐 JavaScript | 📅 2024-07-31: 轻量级的搜索方案。无须部署服务。支持多语言。现已无人维护。
-  * [lunr-languages](https://github.com/MihaiValentin/lunr-languages) ⭐ 458 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-09: 语言包。中文包的依赖加载有问题。
+* [lunr.js](https://github.com/olivernn/lunr.js) ⭐ 9,202 | 🐛 130 | 🌐 JavaScript | 📅 2024-07-31: 轻量级的搜索方案。无须部署服务。支持多语言。现已无人维护。
+  * [lunr-languages](https://github.com/MihaiValentin/lunr-languages) ⭐ 458 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-15: 语言包。中文包的依赖加载有问题。
   * [全文索引](https://lunrjs.com/guides/index_prebuilding.html)存储在本地的一个 JSON 文件里，每次加载页面都会加载全文索引。如果网站内容很多，索引文件会很大。
 * [Algolia](https://www.algolia.com/): 商业搜索引擎
-  * [docsearch](https://github.com/algolia/docsearch) ⭐ 4,377 | 🐛 87 | 🌐 TypeScript | 📅 2026-09-11: 基于 algolia 服务的搜索框，搜索时需要请求 algolia api。
+  * [docsearch](https://github.com/algolia/docsearch) ⭐ 4,377 | 🐛 87 | 🌐 TypeScript | 📅 2026-09-15: 基于 algolia 服务的搜索框，搜索时需要请求 algolia api。
 * [solr](https://solr.apache.org/): 基于 Lucene 的开源企业级搜索平台
 
 ### 停止词 Stop Words
@@ -1038,14 +1038,14 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 这些停用词都是人工输入、非自动化生成的，生成后的停用词会形成一个停用词表。但是，并没有一个明确的停用词表能够适用于所有的工具。
 
 * 中文停止词
-  * [goto456/stopwords](https://github.com/goto456/stopwords) ⭐ 5,546 | 🐛 6 | 📅 2024-01-25
+  * [goto456/stopwords](https://github.com/goto456/stopwords) ⭐ 5,547 | 🐛 6 | 📅 2024-01-25
 * 英文停止词
 
 ## 邮件
 
-* [react-email](https://github.com/resend/react-email) ⭐ 19,733 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-09: 用 React 构建邮件
-* [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ⭐ 18,846 | 🐛 91 | 🌐 Shell | 📅 2026-09-07: 运行在容器内的邮件服务器，无需数据库。
-* [nodemailer](https://github.com/nodemailer/nodemailer) ⭐ 17,675 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-12: 邮件类库 (NodeJS)
+* [react-email](https://github.com/resend/react-email) ⭐ 19,737 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-09: 用 React 构建邮件
+* [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ⭐ 18,849 | 🐛 92 | 🌐 Shell | 📅 2026-09-14: 运行在容器内的邮件服务器，无需数据库。
+* [nodemailer](https://github.com/nodemailer/nodemailer) ⭐ 17,676 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-14: 邮件类库 (NodeJS)
 * [Newton](https://cloudmagic.com/k/newton): 邮件客户端。也支持移动端 `Ⓜ`
 * [mjml](https://mjml.io/): 邮件模板语言
 * <https://www.mailgun.com/> : 发邮件的服务 `ⱳ`
@@ -1056,9 +1056,9 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 翻译
 
-* [沉浸式翻译](https://github.com/immersive-translate/immersive-translate) ⭐ 18,889 | 🐛 390 | 📅 2026-09-07: 浏览器插件，开源免费，体验很好。
-* [OpenCC](https://github.com/BYVoid/OpenCC) ⭐ 9,978 | 🐛 51 | 🌐 C++ | 📅 2026-09-09: 中文简体与繁体转换
-* [translate-shell](https://github.com/soimort/translate-shell) ⭐ 7,509 | 🐛 117 | 🌐 Awk | 📅 2024-12-10: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+* [沉浸式翻译](https://github.com/immersive-translate/immersive-translate) ⭐ 18,901 | 🐛 390 | 📅 2026-09-07: 浏览器插件，开源免费，体验很好。
+* [OpenCC](https://github.com/BYVoid/OpenCC) ⭐ 9,983 | 🐛 51 | 🌐 C++ | 📅 2026-09-09: 中文简体与繁体转换
+* [translate-shell](https://github.com/soimort/translate-shell) ⭐ 7,508 | 🐛 117 | 🌐 Awk | 📅 2024-12-10: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [Poedit](https://poedit.net): .po 翻译软件 `Ⓜ`。价格太贵，大版本升级坑。暂无替代方案
 * <https://www.deepl.com/> : 基于 AI 的翻译器
 * [Grammarly](https://www.grammarly.com/): 提供英文语法纠错的 Web 服务。有 Chrome 插件，体验不错。
@@ -1094,15 +1094,15 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 ## 团队协作
 
 * [airtable](https://www.airtable.com/): 商业方案，小团队免费
-  * [nocodb](https://github.com/nocodb/nocodb) ⭐ 64,964 | 🐛 712 | 🌐 TypeScript | 📅 2026-09-14: 备选方案。开源的
+  * [nocodb](https://github.com/nocodb/nocodb) ⭐ 64,976 | 🐛 712 | 🌐 TypeScript | 📅 2026-09-15: 备选方案。开源的
 
 ### 即时通讯
 
-* [mattermost](https://github.com/mattermost/mattermost-server) ⭐ 39,054 | 🐛 1,014 | 🌐 TypeScript | 📅 2026-09-14: slack 的开源替代品。即时聊天。
+* [mattermost](https://github.com/mattermost/mattermost-server) ⭐ 39,062 | 🐛 1,006 | 🌐 TypeScript | 📅 2026-09-15: slack 的开源替代品。即时聊天。
 
 ## ChatOps
 
-* [wechaty](https://github.com/wechaty/wechaty) ⭐ 23,217 | 🐛 199 | 🌐 TypeScript | 📅 2025-12-21: 聊天机器人开发框架
+* [wechaty](https://github.com/wechaty/wechaty) ⭐ 23,264 | 🐛 198 | 🌐 TypeScript | 📅 2025-12-21: 聊天机器人开发框架
 
 ## 电子书
 
@@ -1119,17 +1119,17 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 ### 电子书阅读器
 
 * [legado](https://github.com/gedoor/legado) ⭐ 47,074 | 🐛 18 | 🌐 Kotlin | 📅 2026-05-27: 安卓平台的电子书阅读器
-* [koreader](https://github.com/koreader/koreader) ⭐ 29,701 | 🐛 1,343 | 🌐 Lua | 📅 2026-09-14: 转为水墨屏设计的电子书阅读器
-* [koodo-reader](https://github.com/troyeguo/koodo-reader) ⭐ 28,184 | 🐛 271 | 🌐 JavaScript | 📅 2026-09-13: 跨平台的电子书阅读器。不支持移动端
-* [calibre](https://github.com/kovidgoyal/calibre/) ⭐ 25,901 | 🐛 6 | 🌐 Python | 📅 2026-09-14: 开源电子书管理器，支持格式转换。
-  * [calibre-web](https://github.com/janeczku/calibre-web) ⭐ 18,180 | 🐛 406 | 🌐 Fluent | 📅 2026-09-05
-  * [DeDRM\_tools](https://github.com/noDRM/DeDRM_tools/) ⭐ 10,324 | 🐛 455 | 🌐 Python | 📅 2024-11-10: calibre 插件。去除电子书的 DRM
+* [koreader](https://github.com/koreader/koreader) ⭐ 29,714 | 🐛 1,345 | 🌐 Lua | 📅 2026-09-15: 转为水墨屏设计的电子书阅读器
+* [koodo-reader](https://github.com/troyeguo/koodo-reader) ⭐ 28,198 | 🐛 271 | 🌐 JavaScript | 📅 2026-09-15: 跨平台的电子书阅读器。不支持移动端
+* [calibre](https://github.com/kovidgoyal/calibre/) ⭐ 25,906 | 🐛 6 | 🌐 Python | 📅 2026-09-15: 开源电子书管理器，支持格式转换。
+  * [calibre-web](https://github.com/janeczku/calibre-web) ⭐ 18,183 | 🐛 409 | 🌐 Fluent | 📅 2026-09-05
+  * [DeDRM\_tools](https://github.com/noDRM/DeDRM_tools/) ⭐ 10,327 | 🐛 455 | 🌐 Python | 📅 2024-11-10: calibre 插件。去除电子书的 DRM
 
 ## 服务 (Service)
 
-* [Mastodon](https://github.com/mastodon/mastodon) ⭐ 50,299 | 🐛 4,533 | 🌐 Ruby | 📅 2026-09-14: 微博客社区
-* [ntfy](https://github.com/binwiederhier/ntfy) ⭐ 34,211 | 🐛 394 | 🌐 Go | 📅 2026-09-10: Send push notifications to your phone or desktop using PUT/POST
-* [ossinsight](https://github.com/pingcap/ossinsight) ⭐ 2,505 | 🐛 29 | 🌐 TypeScript | 📅 2026-09-08: <https://ossinsight.io/> Analysis, Comparison, Trends, Rankings of Github Repos and events
+* [Mastodon](https://github.com/mastodon/mastodon) ⭐ 50,296 | 🐛 4,537 | 🌐 Ruby | 📅 2026-09-15: 微博客社区
+* [ntfy](https://github.com/binwiederhier/ntfy) ⭐ 34,230 | 🐛 395 | 🌐 Go | 📅 2026-09-10: Send push notifications to your phone or desktop using PUT/POST
+* [ossinsight](https://github.com/pingcap/ossinsight) ⭐ 2,507 | 🐛 29 | 🌐 TypeScript | 📅 2026-09-08: <https://ossinsight.io/> Analysis, Comparison, Trends, Rankings of Github Repos and events
 * [whoami](https://github.com/traefik/whoami) ⭐ 1,418 | 🐛 22 | 🌐 Go | 📅 2026-07-29: 返回请求者的 http request 信息。
 * [docker-nfs-server](https://github.com/ehough/docker-nfs-server) ⭐ 800 | 🐛 49 | 🌐 Shell | 📅 2023-06-04: A lightweight, robust, flexible, and containerized NFS server.
 * <https://www.clahub.com/> : CLA 签署服务，开源托管。[源码](https://github.com/clahub/clahub) ⭐ 260 | 🐛 28 | 🌐 TypeScript | 📅 2026-06-28
@@ -1143,54 +1143,54 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### 在线工具箱 (Online Toolbox)
 
-* <https://ipcheck.ing/> :  IP 工具箱。轻松检查你的 IP，IP 地理位置，检查 DNS 泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR 测试，检查网站可用性，查询 Whois 信息等等。可自部署，源码见 [MyIP](https://github.com/jason5ng32/MyIP) ⭐ 11,873 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-13。
+* <https://ipcheck.ing/> :  IP 工具箱。轻松检查你的 IP，IP 地理位置，检查 DNS 泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR 测试，检查网站可用性，查询 Whois 信息等等。可自部署，源码见 [MyIP](https://github.com/jason5ng32/MyIP) ⭐ 11,883 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-13。
 * [CyberChef](https://gchq.github.io/CyberChef/): 开源的，在线提供编码/解码，压缩，数据分析，时间戳，代码格式化等功能。
 * <https://it-tools.tech/> : 开源的，可以用 Docker 自部署。
-  * <https://github.com/sharevb/it-tools> ⭐ 1,621 | 🐛 92 | 🌐 Vue | 📅 2026-09-08 : 原仓库维护太慢，这个 Fork 比较好
+  * <https://github.com/sharevb/it-tools> ⭐ 1,625 | 🐛 92 | 🌐 Vue | 📅 2026-09-08 : 原仓库维护太慢，这个 Fork 比较好
 * <https://extendsclass.com/> : 有语法校验器，加/解密，格式转换，Diff 工具，各种生成器，前端压缩等工具。
 * <https://cloudconvert.com/> : 在线服务，万能的格式转换器
   * <https://convertio.co/> : 备用服务
 
 ### 自部署的服务 (Self-Host Service)
 
-* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 319,135 | 🐛 0 | 📅 2026-09-12
-* [rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 123,414 | 🐛 155 | 🌐 Rust | 📅 2026-09-14: 开源的远程控制软件 (VNC)。支持手机控制电脑，电脑控制手机。支持全平台、多语言。国产软件。
-  * [rustdesk-server](https://github.com/rustdesk/rustdesk-server) ⭐ 10,411 | 🐛 177 | 🌐 Rust | 📅 2026-08-07: 自建中继服务器
+* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 319,348 | 🐛 0 | 📅 2026-09-12
+* [rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 123,583 | 🐛 161 | 🌐 Rust | 📅 2026-09-15: 开源的远程控制软件 (VNC)。支持手机控制电脑，电脑控制手机。支持全平台、多语言。国产软件。
+  * [rustdesk-server](https://github.com/rustdesk/rustdesk-server) ⭐ 10,417 | 🐛 177 | 🌐 Rust | 📅 2026-08-07: 自建中继服务器
 * [webhook](https://github.com/adnanh/webhook) ⭐ 12,127 | 🐛 127 | 🌐 Go | 📅 2026-09-04: a lightweight incoming webhook server to run shell commands
-* [enclosed](https://github.com/CorentinTh/enclosed) ⭐ 2,080 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-10: 阅后即焚服务
+* [enclosed](https://github.com/CorentinTh/enclosed) ⭐ 2,081 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-10: 阅后即焚服务
 
 ### 定时任务
 
-* [xyops](https://github.com/pixlcore/xyops) ⭐ 6,191 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-11: [Cronicle](https://github.com/jhuckaby/Cronicle) ⭐ 5,830 | 🐛 333 | 🌐 JavaScript | 📅 2026-09-11 的继任者。定时任务 + Workflow。Server + Agent 部署架构。部署简单。支持 Docker。功能丰富，界面友好。BSD-3 开源协议。
+* [xyops](https://github.com/pixlcore/xyops) ⭐ 6,193 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-11: [Cronicle](https://github.com/jhuckaby/Cronicle) ⭐ 5,833 | 🐛 333 | 🌐 JavaScript | 📅 2026-09-11 的继任者。定时任务 + Workflow。Server + Agent 部署架构。部署简单。支持 Docker。功能丰富，界面友好。BSD-3 开源协议。
 
 ### WAF
 
-* [SafeLine](https://github.com/chaitin/SafeLine) ⭐ 22,587 | 🐛 69 | 🌐 Go | 📅 2026-09-10: 中国公司做的雷池系统。UI 做的不错。
-* [bunkerweb](https://github.com/bunkerity/bunkerweb) ⭐ 10,938 | 🐛 176 | 🌐 Python | 📅 2026-09-14: 「待评价」
-* [ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) ⭐ 9,780 | 🐛 343 | 🌐 C++ | 📅 2026-07-28: cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
-  * [OWASP CRS](https://github.com/coreruleset/coreruleset) ⭐ 3,265 | 🐛 108 | 🌐 Python | 📅 2026-09-14: ModSecurity 的防火墙规则集
-  * [modsecurity-crs-docker](https://github.com/coreruleset/modsecurity-crs-docker) ⭐ 447 | 🐛 16 | 🌐 Dockerfile | 📅 2026-09-11: Official ModSecurity Docker + Core Rule Set (CRS) images
+* [SafeLine](https://github.com/chaitin/SafeLine) ⭐ 22,594 | 🐛 69 | 🌐 Go | 📅 2026-09-10: 中国公司做的雷池系统。UI 做的不错。
+* [bunkerweb](https://github.com/bunkerity/bunkerweb) ⭐ 10,950 | 🐛 167 | 🌐 Python | 📅 2026-09-15: 「待评价」
+* [ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) ⭐ 9,781 | 🐛 345 | 🌐 C++ | 📅 2026-09-14: cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
+  * [OWASP CRS](https://github.com/coreruleset/coreruleset) ⭐ 3,267 | 🐛 110 | 🌐 Python | 📅 2026-09-15: ModSecurity 的防火墙规则集
+  * [modsecurity-crs-docker](https://github.com/coreruleset/modsecurity-crs-docker) ⭐ 447 | 🐛 17 | 🌐 Dockerfile | 📅 2026-09-14: Official ModSecurity Docker + Core Rule Set (CRS) images
 
 ### 短链接
 
-* [Dub](https://github.com/steven-tey/dub) ⭐ 24,743 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-14: 开源的短链接服务，自带访问统计。部署复杂，不支持 docker 部署。
-* [YOURLS](https://github.com/YOURLS/YOURLS) ⭐ 12,222 | 🐛 48 | 🌐 PHP | 📅 2026-09-07: 备选方案
-* [sink](https://github.com/ccbikai/sink) ⭐ 7,118 | 🐛 22 | 🌐 Vue | 📅 2026-08-20: 基于 Cloudflare Page 部署的短链接服务，有访问统计功能。部署简单。
+* [Dub](https://github.com/steven-tey/dub) ⭐ 24,743 | 🐛 146 | 🌐 TypeScript | 📅 2026-09-15: 开源的短链接服务，自带访问统计。部署复杂，不支持 docker 部署。
+* [YOURLS](https://github.com/YOURLS/YOURLS) ⭐ 12,226 | 🐛 48 | 🌐 PHP | 📅 2026-09-14: 备选方案
+* [sink](https://github.com/ccbikai/sink) ⭐ 7,122 | 🐛 22 | 🌐 Vue | 📅 2026-09-15: 基于 Cloudflare Page 部署的短链接服务，有访问统计功能。部署简单。
 * [shlink](https://github.com/shlinkio/shlink) ⭐ 5,283 | 🐛 25 | 🌐 PHP | 📅 2026-09-10: 短链服务。功能挺全。
 
 ### 评论系统
 
-* [remark42](https://github.com/umputun/remark42) ⭐ 5,611 | 🐛 87 | 🌐 Go | 📅 2026-09-14: 评论系统
-  * [waline](https://github.com/walinejs/waline) ⭐ 3,115 | 🐛 62 | 🌐 JavaScript | 📅 2026-09-14: 备选方案
-  * [Artalk](https://github.com/ArtalkJS/Artalk) ⭐ 2,335 | 🐛 108 | 🌐 Go | 📅 2026-09-11: 备选方案
+* [remark42](https://github.com/umputun/remark42) ⭐ 5,612 | 🐛 88 | 🌐 Go | 📅 2026-09-14: 评论系统
+  * [waline](https://github.com/walinejs/waline) ⭐ 3,117 | 🐛 62 | 🌐 JavaScript | 📅 2026-09-14: 备选方案
+  * [Artalk](https://github.com/ArtalkJS/Artalk) ⭐ 2,336 | 🐛 108 | 🌐 Go | 📅 2026-09-11: 备选方案
 * [cusdis](https://github.com/djyde/cusdis) ⚠️ Archived: Disqus 替代品
 * [Disqus](https://disqus.com/): 国外的免费商业评论系统，用户体验好。但国内被墙
   * [DisqusJS](https://github.com/SukkaW/DisqusJS) ⭐ 666 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-27: 让 Disqus 可以在国内访问，但是只读，不能发表评论
 
 ### 图床
 
-* [PicGo](https://github.com/Molunerfinn/PicGo) ⭐ 27,190 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-01: 图床管理软件，支持各种图床服务，包括 Github。Mac 安装失败见 FAQ。
-  * [picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) ⭐ 235 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-15
+* [PicGo](https://github.com/Molunerfinn/PicGo) ⭐ 27,197 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-01: 图床管理软件，支持各种图床服务，包括 Github。Mac 安装失败见 FAQ。
+  * [picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) ⭐ 236 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-15
   * [picgo-plugin-freeimagehost-uploader](https://github.com/quul/picgo-plugin-freeimagehost-uploader) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2023-12-10
 * <https://sm.ms/> : 免费公益的图床，中国不可访问
   * <https://smms.app/> : 中国可访问的免费图床
@@ -1200,10 +1200,10 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 网盘
 
-* [Nextcloud](https://github.com/nextcloud/server) ⭐ 36,798 | 🐛 3,672 | 🌐 PHP | 📅 2026-09-14: 开源的网盘方案，客户端支持很多平台。用户体验很好，可与商业产品竞争。支持插件。
+* [Nextcloud](https://github.com/nextcloud/server) ⭐ 36,808 | 🐛 3,677 | 🌐 PHP | 📅 2026-09-15: 开源的网盘方案，客户端支持很多平台。用户体验很好，可与商业产品竞争。支持插件。
   * [linuxserver/nextcloud](https://hub.docker.com/r/linuxserver/nextcloud): nextcloud 官方的 AIO 镜像太烂，推荐用 linuxserver 的
   * Android 的 Nextcloud 客户端不要从 Google Play 下载，因为它会限制从 Nextcloud 下载 APK 文件。推荐从 F-Droid 下载。
-* [Seafile](https://github.com/haiwen/seafile) ⭐ 15,241 | 🐛 97 | 🌐 C | 📅 2026-08-28
+* [Seafile](https://github.com/haiwen/seafile) ⭐ 15,242 | 🐛 97 | 🌐 C | 📅 2026-08-28
 * [cryptomator](https://cryptomator.org/): 开源软件。将文件加密存储在任意网盘上。兼容全平台，电脑端免费，移动端收费。安卓推荐通过F-Droid 安装，然后到官网买授权。Google Play 的价格是官网授权价的两倍。
 * [123 云盘](https://www.123pan.com/): 上传和下载速度都能跑满。2T 免费空间。客户端不能挂载到本地目录，客户端很差。使用 WebDav 需要购买会员。WebDav 功能问题很多。
 * [阿里云盘](https://www.aliyundrive.com/): 使用 WebDav 需要额外付费。
@@ -1217,9 +1217,9 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 临时共享
 
-* [localsend](https://github.com/localsend/localsend) ⭐ 90,950 | 🐛 1,119 | 🌐 Dart | 📅 2026-09-12: 类似 PairDrop。只不过是安装 app，不是网页形式。全平台支持。
+* [localsend](https://github.com/localsend/localsend) ⭐ 91,557 | 🐛 1,119 | 🌐 Dart | 📅 2026-09-14: 类似 PairDrop。只不过是安装 app，不是网页形式。全平台支持。
 * [transfer.sh](https://github.com/dutchcoders/transfer.sh) ⭐ 15,894 | 🐛 62 | 🌐 Go | 📅 2026-06-13: 共享文件的命令行程序
-* [PairDrop](https://github.com/schlagmichdoch/PairDrop) ⭐ 11,386 | 🐛 113 | 🌐 JavaScript | 📅 2026-04-22: 通过网页在局域网内端到端传输文件和消息。可用 Docker 自己部署。
+* [PairDrop](https://github.com/schlagmichdoch/PairDrop) ⭐ 11,398 | 🐛 113 | 🌐 JavaScript | 📅 2026-04-22: 通过网页在局域网内端到端传输文件和消息。可用 Docker 自己部署。
 * [OnionShare](https://github.com/onionshare/onionshare) ⭐ 7,089 | 🐛 86 | 🌐 Python | 📅 2026-09-09: 开源工具，可让您使用 Tor 网络安全、匿名地共享文件、托管网站并与朋友聊天。
   * [onionshare-android](https://github.com/onionshare/onionshare-android) ⭐ 289 | 🐛 18 | 🌐 Kotlin | 📅 2025-12-12
 * [奶牛快传](https://cowtransfer.com/) : 临时文件分享，很好用。国内服务
@@ -1227,30 +1227,30 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 爬虫/Archive
 
-* [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,421 | 🐛 159 | 🌐 Python | 📅 2026-09-14: 自己搭建 Archive 网站。
+* [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,438 | 🐛 159 | 🌐 Python | 📅 2026-09-14: 自己搭建 Archive 网站。
 * [colly](https://github.com/gocolly/colly) ⭐ 25,516 | 🐛 195 | 🌐 Go | 📅 2026-09-02: Go 语言编写的爬虫框架
-* [katana](https://github.com/projectdiscovery/katana) ⭐ 17,503 | 🐛 17 | 🌐 Go | 📅 2026-09-11: 「待评价」
+* [katana](https://github.com/projectdiscovery/katana) ⭐ 17,510 | 🐛 23 | 🌐 Go | 📅 2026-09-14: 「待评价」
 * [httrack](https://www.httrack.com/): 命令行或者图形化的爬虫工具，参数很丰富
 * `wget -r`: 简易版，有诸多限制
 
 ### 爬虫代理池
 
-* [proxy\_pool](https://github.com/jhao104/proxy_pool) ⭐ 23,700 | 🐛 298 | 🌐 Python | 📅 2026-06-15
+* [proxy\_pool](https://github.com/jhao104/proxy_pool) ⭐ 23,703 | 🐛 298 | 🌐 Python | 📅 2026-06-15
 * <https://proxy.mimvp.com/>
 
 ## 静态文件服务
 
-* [caddy](https://github.com/caddyserver/caddy) ⭐ 75,725 | 🐛 280 | 🌐 Go | 📅 2026-09-14: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS。[Docker Alpine 镜像](https://hub.docker.com/_/caddy)大小 16 MB。
+* [caddy](https://github.com/caddyserver/caddy) ⭐ 75,751 | 🐛 282 | 🌐 Go | 📅 2026-09-14: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS。[Docker Alpine 镜像](https://hub.docker.com/_/caddy)大小 16 MB。
 * [http-server](https://github.com/http-party/http-server) ⭐ 14,234 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15: NodeJS 写的。
-* [static-web-server](https://github.com/static-web-server/static-web-server) ⭐ 2,355 | 🐛 36 | 🌐 Rust | 📅 2026-09-11: 轻量级文件服务器。[Docker Alpine 镜像](https://hub.docker.com/r/joseluisq/static-web-server)大小 3 MB。
-* [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) ⭐ 1,003 | 🐛 1 | 🌐 Dockerfile | 📅 2025-08-05: 基于 busybox 自带的 httpd 程序。Docker 镜像大小 154KB。功能有限。
+* [static-web-server](https://github.com/static-web-server/static-web-server) ⭐ 2,359 | 🐛 36 | 🌐 Rust | 📅 2026-09-11: 轻量级文件服务器。[Docker Alpine 镜像](https://hub.docker.com/r/joseluisq/static-web-server)大小 3 MB。
+* [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) ⭐ 1,004 | 🐛 1 | 🌐 Dockerfile | 📅 2025-08-05: 基于 busybox 自带的 httpd 程序。Docker 镜像大小 154KB。功能有限。
 
 ## 文件管理服务
 
-* [OpenList](https://github.com/OpenListTeam/OpenList) ⭐ 24,615 | 🐛 269 | 🌐 Go | 📅 2026-09-12: 支持多种云盘存储的文件管理程序。支持在线浏览图片、视音频。支持流式传输。缺点是大文件传输时会报错。
+* [OpenList](https://github.com/OpenListTeam/OpenList) ⭐ 24,630 | 🐛 272 | 🌐 Go | 📅 2026-09-14: 支持多种云盘存储的文件管理程序。支持在线浏览图片、视音频。支持流式传输。缺点是大文件传输时会报错。
   * [xlist](https://github.com/xlist-io/xlist) ⭐ 598 | 🐛 45 | 🌐 Dart | 📅 2024-06-01: OpenList 的 iOS 和 Android 客户端。
-* [dufs](https://github.com/sigoden/dufs) ⭐ 10,728 | 🐛 18 | 🌐 Rust | 📅 2026-06-29: 轻量级文件服务器。支持 webdav。可拖拽文件实现上传。基本的多用户权限控制。支持 API 请求操作。
-* [FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser) ⭐ 8,279 | 🐛 184 | 🌐 Go | 📅 2026-09-12: FileBrowser Quantum provides an easy way to access and manage your files from the web. FileBrowser Quantum  is a Fork from FileBrowser.
+* [dufs](https://github.com/sigoden/dufs) ⭐ 10,738 | 🐛 18 | 🌐 Rust | 📅 2026-06-29: 轻量级文件服务器。支持 webdav。可拖拽文件实现上传。基本的多用户权限控制。支持 API 请求操作。
+* [FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser) ⭐ 8,296 | 🐛 184 | 🌐 Go | 📅 2026-09-15: FileBrowser Quantum provides an easy way to access and manage your files from the web. FileBrowser Quantum  is a Fork from FileBrowser.
 
 ## 静态文件托管
 
@@ -1259,10 +1259,10 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## CMS
 
-* [strapi](https://github.com/strapi/strapi) ⭐ 73,148 | 🐛 550 | 🌐 TypeScript | 📅 2026-09-14
-* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,297 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-14
-* [netlify-cms](https://github.com/netlify/netlify-cms) ⭐ 19,378 | 🐛 593 | 🌐 JavaScript | 📅 2026-09-14: 基于 Git 服务（比如 github、gitlab）的 Open API 的 CMS。开源项目挺有用。商业项目不适合用。
-* [keystone](https://github.com/keystonejs/keystone) ⭐ 9,974 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-14: Headless CMS. Built with GraphQL and React
+* [strapi](https://github.com/strapi/strapi) ⭐ 73,162 | 🐛 543 | 🌐 TypeScript | 📅 2026-09-15
+* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,308 | 🐛 187 | 🌐 TypeScript | 📅 2026-09-15
+* [netlify-cms](https://github.com/netlify/netlify-cms) ⭐ 19,379 | 🐛 592 | 🌐 JavaScript | 📅 2026-09-14: 基于 Git 服务（比如 github、gitlab）的 Open API 的 CMS。开源项目挺有用。商业项目不适合用。
+* [keystone](https://github.com/keystonejs/keystone) ⭐ 9,974 | 🐛 139 | 🌐 TypeScript | 📅 2026-09-14: Headless CMS. Built with GraphQL and React
 * [ROAPI](https://github.com/roapi/roapi) ⭐ 3,433 | 🐛 66 | 🌐 Rust | 📅 2026-03-25: 把数据源直接以 GraphQL、SQL、RESTful API 暴露。
 * [headless cms](https://github.com/netlify/headlesscms.org) ⚠️ Archived
 
@@ -1272,10 +1272,10 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 * [kubernetes](https://kubernetes.io/)
 * 开源自部署的 Heroku/Netlify/Verce 替代品
-  * [dokploy](https://github.com/Dokploy/dokploy) ⭐ 37,277 | 🐛 701 | 🌐 TypeScript | 📅 2026-09-11
-  * [coolify](https://github.com/coollabsio/coolify) ⭐ 61,761 | 🐛 675 | 🌐 PHP | 📅 2026-09-14
-  * [caprover](https://github.com/caprover/caprover) ⭐ 15,161 | 🐛 176 | 🌐 TypeScript | 📅 2026-09-07
-  * [dokku](https://github.com/dokku/dokku) ⭐ 32,136 | 🐛 43 | 🌐 Shell | 📅 2026-09-14
+  * [dokploy](https://github.com/Dokploy/dokploy) ⭐ 37,298 | 🐛 705 | 🌐 TypeScript | 📅 2026-09-14
+  * [coolify](https://github.com/coollabsio/coolify) ⭐ 61,795 | 🐛 684 | 🌐 PHP | 📅 2026-09-15
+  * [caprover](https://github.com/caprover/caprover) ⭐ 15,161 | 🐛 176 | 🌐 TypeScript | 📅 2026-09-15
+  * [dokku](https://github.com/dokku/dokku) ⭐ 32,137 | 🐛 41 | 🌐 Shell | 📅 2026-09-15
 * [planetscale](https://planetscale.com/): Serverless MySQL 服务，5GB 免费使用量。
 * [railway.app](https://railway.app/): 非常棒的应用托管平台。每月赠送 $5，500 小时的免费用量。缺点是部署后就不能停止服务，只能删了部署重来。
 * <https://vercel.com/>
@@ -1299,7 +1299,7 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## Serverless
 
-* [serverless/serverless](https://github.com/serverless/serverless) ⭐ 46,916 | 🐛 1,209 | 🌐 JavaScript | 📅 2026-09-10
+* [serverless/serverless](https://github.com/serverless/serverless) ⭐ 46,915 | 🐛 1,210 | 🌐 JavaScript | 📅 2026-09-14
 * [apex/up](https://github.com/apex/up) ⭐ 8,793 | 🐛 293 | 🌐 Go | 📅 2024-03-15: 值得期待
   * <https://hackernoon.com/up-b3db1ca930ee>
 * [kubeless](https://github.com/kubeless/kubeless) ⚠️ Archived: FaaS in k8s
@@ -1312,15 +1312,15 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## microVM
 
-* [firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 36,727 | 🐛 99 | 🌐 Rust | 📅 2026-09-14: Secure and fast microVMs for serverless computing。AWS 出品
-* [kubevirt](https://github.com/kubevirt/kubevirt) ⭐ 7,067 | 🐛 591 | 🌐 Go | 📅 2026-09-14: 「待评价」KubeVirt is a virtual machine management add-on for Kubernetes. The aim is to provide a common ground for virtualization solutions on top of Kubernetes.
+* [firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 36,743 | 🐛 101 | 🌐 Rust | 📅 2026-09-14: Secure and fast microVMs for serverless computing。AWS 出品
+* [kubevirt](https://github.com/kubevirt/kubevirt) ⭐ 7,067 | 🐛 590 | 🌐 Go | 📅 2026-09-15: 「待评价」KubeVirt is a virtual machine management add-on for Kubernetes. The aim is to provide a common ground for virtualization solutions on top of Kubernetes.
   * <https://katacontainers.io/> : 备选方案
 * [weaveworks/ignite](https://github.com/weaveworks/ignite/) ⚠️ Archived: a declarative Firecracker microVM administration tool
 
 ## 跳板机/堡垒机
 
-* [jumpserver](https://github.com/jumpserver/jumpserver) ⭐ 31,529 | 🐛 102 | 🌐 Python | 📅 2026-09-14
-* [teleport](https://github.com/gravitational/teleport) ⭐ 20,918 | 🐛 3,264 | 🌐 Go | 📅 2026-09-11
+* [jumpserver](https://github.com/jumpserver/jumpserver) ⭐ 31,531 | 🐛 102 | 🌐 Python | 📅 2026-09-15
+* [teleport](https://github.com/gravitational/teleport) ⭐ 20,918 | 🐛 3,262 | 🌐 Go | 📅 2026-09-11
 
 ## REPL
 
@@ -1330,8 +1330,8 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 正则表达式 (Regex)
 
-* [Learn regex the easy way](https://github.com/ziishaned/learn-regex) ⭐ 46,092 | 🐛 65 | 📅 2025-08-25
-* [grex](https://github.com/pemistahl/grex) ⭐ 8,184 | 🐛 18 | 🌐 Rust | 📅 2026-02-27: 根据给出的文本，自动给出合适的正则表达式
+* [Learn regex the easy way](https://github.com/ziishaned/learn-regex) ⭐ 46,091 | 🐛 65 | 📅 2025-08-25
+* [grex](https://github.com/pemistahl/grex) ⭐ 8,185 | 🐛 18 | 🌐 Rust | 📅 2026-02-27: 根据给出的文本，自动给出合适的正则表达式
 * 正则表达式编辑器
   * <https://regexr.com/> : 仅支持 JS/PHP/Perl
   * <https://regex101.com/> : 仅支持 JS/PHP/Perl/Python/Go/Java/C#/Rust
@@ -1341,31 +1341,31 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 语法分析/AST
 
-* [tree-sitter](https://github.com/tree-sitter/tree-sitter) ⭐ 26,944 | 🐛 105 | 🌐 Rust | 📅 2026-09-14: A parser generator tool and an incremental parsing library. It can build a concrete syntax tree for a source file and efficiently update the syntax tree as the source file is edited.
-* [ast-grep](https://github.com/ast-grep/ast-grep) ⭐ 15,890 | 🐛 54 | 🌐 Rust | 📅 2026-09-13: A CLI tool for code structural search, lint and rewriting.
-  * [GritQL](https://github.com/honeycombio/gritql) ⭐ 4,595 | 🐛 143 | 🌐 Rust | 📅 2026-09-03: 备选方案
+* [tree-sitter](https://github.com/tree-sitter/tree-sitter) ⭐ 26,953 | 🐛 108 | 🌐 Rust | 📅 2026-09-15: A parser generator tool and an incremental parsing library. It can build a concrete syntax tree for a source file and efficiently update the syntax tree as the source file is edited.
+* [ast-grep](https://github.com/ast-grep/ast-grep) ⭐ 15,906 | 🐛 54 | 🌐 Rust | 📅 2026-09-13: A CLI tool for code structural search, lint and rewriting.
+  * [GritQL](https://github.com/honeycombio/gritql) ⭐ 4,597 | 🐛 143 | 🌐 Rust | 📅 2026-09-03: 备选方案
 
 ## 数据可视化
 
-* [kibana](https://github.com/elastic/kibana) ⭐ 21,286 | 🐛 14,773 | 🌐 TypeScript | 📅 2026-09-14
-* [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) ⭐ 20,963 | 🐛 29 | 🌐 JavaScript | 📅 2025-12-27: 中国省、地、县、乡、村级数据。
+* [kibana](https://github.com/elastic/kibana) ⭐ 21,288 | 🐛 14,765 | 🌐 TypeScript | 📅 2026-09-15
+* [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) ⭐ 20,965 | 🐛 29 | 🌐 JavaScript | 📅 2025-12-27: 中国省、地、县、乡、村级数据。
 * [Grafana](https://grafana.com/grafana)
 
 ### 地图
 
-* [derive](https://github.com/erik/derive) ⭐ 587 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-27: 足迹热力图
+* [derive](https://github.com/erik/derive) ⭐ 587 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-27: 足迹热力图
 * [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/guides/): 地图可视化
 
 ## 日志
 
-* [goaccess](https://github.com/allinurl/goaccess) ⭐ 20,926 | 🐛 449 | 🌐 C | 📅 2026-09-13: Web 日志分析终端工具
-* [toolong](https://github.com/Textualize/toolong) ⭐ 3,946 | 🐛 37 | 🌐 Python | 📅 2024-08-05: 针对大文件日志的终端阅读器
-* [hl](https://github.com/pamburus/hl) ⭐ 3,283 | 🐛 13 | 🌐 Rust | 📅 2026-09-14: JSON 日志阅读器
+* [goaccess](https://github.com/allinurl/goaccess) ⭐ 20,927 | 🐛 449 | 🌐 C | 📅 2026-09-13: Web 日志分析终端工具
+* [toolong](https://github.com/Textualize/toolong) ⭐ 3,947 | 🐛 37 | 🌐 Python | 📅 2024-08-05: 针对大文件日志的终端阅读器
+* [hl](https://github.com/pamburus/hl) ⭐ 3,285 | 🐛 13 | 🌐 Rust | 📅 2026-09-14: JSON 日志阅读器
 * [gonzo](https://github.com/control-theory/gonzo) ⭐ 2,767 | 🐛 17 | 🌐 Go | 📅 2026-09-11: 日志分析终端工具。加载大文件非常慢。
 
 ## 交互式 Notebook
 
-* [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,301 | 🐛 2,608 | 🌐 TypeScript | 📅 2026-09-14: Jupyter 新的 Web 界面。
+* [JupyterLab](https://github.com/jupyterlab/jupyterlab) ⭐ 15,302 | 🐛 2,603 | 🌐 TypeScript | 📅 2026-09-14: Jupyter 新的 Web 界面。
   * [介绍](https://zhuanlan.zhihu.com/p/33898478)
   * [DEMO](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo)
 * [nteract](https://github.com/nteract/nteract) ⭐ 170 | 🐛 32 | 🌐 Rust | 📅 2026-09-12: 基于 Jupyter 的前端跨平台项目
@@ -1374,12 +1374,12 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
   * [EVE](https://github.com/witheve/eve) ⭐ 7,222 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20: 「[团队解散](https://github.com/witheve/Eve/issues/889#issuecomment-395056593) ⭐ 7,222 | 🐛 71 | 🌐 TypeScript | 📅 2018-03-20」非常酷的概念，Literate Programming 的一种实现，Medium 式编程。
   * [kajero](https://github.com/joelotter/kajero) ⭐ 1,856 | 🐛 12 | 🌐 JavaScript | 📅 2017-06-27: 「无人维护」Interactive JavaScript notebooks with clever graphing
 * <https://mybinder.org/>
-  * 源码 [binderhub](https://github.com/jupyterhub/binderhub) ⭐ 2,668 | 🐛 274 | 🌐 Python | 📅 2026-09-07
+  * 源码 [binderhub](https://github.com/jupyterhub/binderhub) ⭐ 2,669 | 🐛 274 | 🌐 Python | 📅 2026-09-07
 * [Quarto](https://quarto.org/): an open-source scientific and technical publishing system built on Pandoc
 
 ## 简历
 
-* [online-cv](https://github.com/sharu725/online-cv) ⭐ 3,488 | 🐛 32 | 🌐 JavaScript | 📅 2025-08-12: 适用于生成简历文档
+* [online-cv](https://github.com/sharu725/online-cv) ⭐ 3,489 | 🐛 32 | 🌐 JavaScript | 📅 2025-08-12: 适用于生成简历文档
 * [resumed](https://github.com/rbardini/resumed) ⭐ 549 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-04: 基于 jsonresume 生成静态网页
   * <https://jsonresume.org/> : 用 JSON 描述简历
   * <https://jsonresume.org/themes/> : 别人基于 jsonresume 做的主题
@@ -1414,8 +1414,8 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 虚拟化
 
-* [Vagrant](https://github.com/hashicorp/vagrant) ⭐ 27,208 | 🐛 752 | 🌐 Ruby | 📅 2026-09-07: 家用、商用方案
-  * [bento](https://github.com/chef/bento) ⭐ 4,449 | 🐛 24 | 🌐 HCL | 📅 2026-08-08: build minimal Vagrant baseboxes
+* [Vagrant](https://github.com/hashicorp/vagrant) ⭐ 27,212 | 🐛 753 | 🌐 Ruby | 📅 2026-09-07: 家用、商用方案
+  * [bento](https://github.com/chef/bento) ⭐ 4,449 | 🐛 25 | 🌐 HCL | 📅 2026-08-08: build minimal Vagrant baseboxes
   * [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) ⚠️ Archived: 安装 VirtualBox Guest Additions 以支持宿主机与虚拟机共享目录的双向同步
   * [vagrant-scp](https://github.com/invernizzi/vagrant-scp) ⭐ 313 | 🐛 14 | 🌐 Ruby | 📅 2022-03-03: Vagrant 支持 scp
   * <https://app.vagrantup.com/> : vagrant box 仓库
@@ -1432,10 +1432,10 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 模板引擎
 
-* [handlebars](https://github.com/wycats/handlebars.js) ⭐ 18,673 | 🐛 114 | 🌐 JavaScript | 📅 2026-06-24: mustache 的超集，支持复杂的语法和可扩展
-* [art-template](https://github.com/aui/art-template) ⭐ 9,847 | 🐛 93 | 🌐 JavaScript | 📅 2026-07-13: 官宣性能最高的模板引擎
-* [nunjucks](https://github.com/mozilla/nunjucks) ⭐ 8,997 | 🐛 365 | 🌐 JavaScript | 📅 2026-02-07: jinja2 inspired templating engine in nodejs
-* [gomplate](https://github.com/hairyhenderson/gomplate) ⭐ 3,202 | 🐛 22 | 🌐 Go | 📅 2026-09-13: 用 Go 写的命令行工具
+* [handlebars](https://github.com/wycats/handlebars.js) ⭐ 18,674 | 🐛 114 | 🌐 JavaScript | 📅 2026-06-24: mustache 的超集，支持复杂的语法和可扩展
+* [art-template](https://github.com/aui/art-template) ⭐ 9,846 | 🐛 93 | 🌐 JavaScript | 📅 2026-07-13: 官宣性能最高的模板引擎
+* [nunjucks](https://github.com/mozilla/nunjucks) ⭐ 8,998 | 🐛 366 | 🌐 JavaScript | 📅 2026-02-07: jinja2 inspired templating engine in nodejs
+* [gomplate](https://github.com/hairyhenderson/gomplate) ⭐ 3,203 | 🐛 22 | 🌐 Go | 📅 2026-09-14: 用 Go 写的命令行工具
 * [envsubst](https://www.gnu.org/software/gettext/manual/html_node/envsubst-Invocation.html): GNU 工具，`${VARIABLE}` 语法变量替换
   * [danday74/envsub](https://github.com/danday74/envsub) ⭐ 64 | 🐛 22 | 🌐 JavaScript | 📅 2025-08-10
 * [mustache](http://mustache.github.io/): 简单变量替换用 mustache 即可。
@@ -1445,46 +1445,46 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## TeX/LaTeX
 
-* [Typst](https://github.com/typst/typst) ⭐ 56,006 | 🐛 1,293 | 🌐 Rust | 📅 2026-09-14: latex 替代品。类似 markdown 语法，可以在文档内编程，Rust 渲染速度很快。
-  * [tinymist](https://github.com/Myriad-Dreamin/tinymist) ⭐ 3,530 | 🐛 213 | 🌐 Rust | 📅 2026-09-14: language service for Typst
-* [KaTeX](https://github.com/KaTeX/KaTeX) ⭐ 20,387 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-13: Fast math typesetting for the web. <https://katex.org/>
+* [Typst](https://github.com/typst/typst) ⭐ 56,020 | 🐛 1,295 | 🌐 Rust | 📅 2026-09-15: latex 替代品。类似 markdown 语法，可以在文档内编程，Rust 渲染速度很快。
+  * [tinymist](https://github.com/Myriad-Dreamin/tinymist) ⭐ 3,534 | 🐛 212 | 🌐 Rust | 📅 2026-09-15: language service for Typst
+* [KaTeX](https://github.com/KaTeX/KaTeX) ⭐ 20,388 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-14: Fast math typesetting for the web. <https://katex.org/>
 * [Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes/blob/master/Translation-Chinese.md) ⚠️ Archived
 * [awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) ⭐ 1,668 | 🐛 6 | 📅 2026-08-08
 * [TEXMaker](https://www.xm1math.net/texmaker/)
 
 ## Slide/Presentation
 
-* <https://slides.com/> : 基于 [reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,290 | 🐛 915 | 🌐 JavaScript | 📅 2026-09-10 的服务，非常好用，但是国内要翻墙 `ⱳ`
-* [slidev](https://github.com/slidevjs/slidev) ⭐ 48,661 | 🐛 233 | 🌐 TypeScript | 📅 2026-08-25: <https://sli.dev/>
-* [impress.js](https://github.com/impress/impress.js) ⭐ 38,169 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23: 类似 prezi.com 的 slide 框架
+* <https://slides.com/> : 基于 [reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,295 | 🐛 915 | 🌐 JavaScript | 📅 2026-09-10 的服务，非常好用，但是国内要翻墙 `ⱳ`
+* [slidev](https://github.com/slidevjs/slidev) ⭐ 48,676 | 🐛 228 | 🌐 TypeScript | 📅 2026-09-15: <https://sli.dev/>
+* [impress.js](https://github.com/impress/impress.js) ⭐ 38,170 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23: 类似 prezi.com 的 slide 框架
 * [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,495 | 🐛 141 | 🌐 JavaScript | 📅 2023-01-04: 基于 MDX 写 slide
 * [nodeppt](https://github.com/ksky521/nodeppt) ⚠️ Archived: 这可能是迄今为止最好的网页版演示库
 * [spectacle](https://github.com/FormidableLabs/spectacle) ⭐ 10,161 | 🐛 75 | 🌐 TypeScript | 📅 2026-04-12: 基于 React 写的 slide
-* [presenterm](https://github.com/mfontanini/presenterm) ⭐ 8,835 | 🐛 78 | 🌐 Rust | 📅 2026-05-22: 在终端播放 slide
-  * [maaslalani/slides](https://github.com/maaslalani/slides) ⭐ 11,657 | 🐛 77 | 🌐 Go | 📅 2026-07-08: 备选方案
+* [presenterm](https://github.com/mfontanini/presenterm) ⭐ 8,840 | 🐛 78 | 🌐 Rust | 📅 2026-05-22: 在终端播放 slide
+  * [maaslalani/slides](https://github.com/maaslalani/slides) ⭐ 11,658 | 🐛 77 | 🌐 Go | 📅 2026-07-08: 备选方案
 * [bespoke](https://github.com/bespokejs/bespoke) ⭐ 4,797 | 🐛 6 | 🌐 JavaScript | 📅 2020-09-08: DIY Presentation Micro-Framework
 
 ## SSG: Static Site Generator
 
-* [next.js](https://github.com/vercel/next.js) ⭐ 142,280 | 🐛 3,367 | 🌐 JavaScript | 📅 2026-09-14: 「待评价」
-* [Hugo](https://github.com/gohugoio/hugo) ⭐ 89,816 | 🐛 233 | 🌐 Go | 📅 2026-09-14: Go 生态。
-* [docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,245 | 🐛 400 | 🌐 TypeScript | 📅 2026-09-14: JS + React + MDX
-* [astro](https://github.com/withastro/astro) ⭐ 62,531 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-14: 「待评价」
-* [gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,938 | 🐛 449 | 🌐 JavaScript | 📅 2026-09-14: JS + React 生态。适合与 CMS、API、数据库搭配使用。
-* [Gastby](https://github.com/gatsbyjs/gatsby) ⭐ 55,938 | 🐛 449 | 🌐 JavaScript | 📅 2026-09-14: 基于 React 和 GraphQL 的现代化静态网站生成器。可扩展性好。
+* [next.js](https://github.com/vercel/next.js) ⭐ 142,315 | 🐛 3,362 | 🌐 JavaScript | 📅 2026-09-15: 「待评价」
+* [Hugo](https://github.com/gohugoio/hugo) ⭐ 89,829 | 🐛 236 | 🌐 Go | 📅 2026-09-14: Go 生态。
+* [docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,246 | 🐛 398 | 🌐 TypeScript | 📅 2026-09-14: JS + React + MDX
+* [astro](https://github.com/withastro/astro) ⭐ 62,582 | 🐛 83 | 🌐 TypeScript | 📅 2026-09-15: 「待评价」
+* [gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,939 | 🐛 450 | 🌐 JavaScript | 📅 2026-09-14: JS + React 生态。适合与 CMS、API、数据库搭配使用。
+* [Gastby](https://github.com/gatsbyjs/gatsby) ⭐ 55,939 | 🐛 450 | 🌐 JavaScript | 📅 2026-09-14: 基于 React 和 GraphQL 的现代化静态网站生成器。可扩展性好。
   * [docz](https://github.com/doczjs/docz) ⚠️ Archived: 基于 MDX 和 Gastby 的，零配置的，文档生成器
 * [docsify](https://github.com/docsifyjs/docsify) ⭐ 31,504 | 🐛 94 | 🌐 JavaScript | 📅 2026-09-10: 基于 Markdown 的文档生成器。在浏览器直接加载 Markdown 文档实时渲染。细节功能做得不是很理想。`routerMode: 'history'` 针对静态页面托管方案（比如 Github Pages）无效。
   * [docute](https://github.com/egoist/docute) ⚠️ Archived: 类似技术的备选方案
-* [eleventy](https://github.com/11ty/eleventy) ⭐ 19,908 | 🐛 185 | 🌐 JavaScript | 📅 2026-09-10: 「待评价」
-* [Zola](https://github.com/getzola/zola) ⭐ 17,433 | 🐛 191 | 🌐 Rust | 📅 2026-09-14: Rust 生态。自带搜索栏。
-* [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ⭐ 10,261 | 🐛 34 | 🌐 HTML | 📅 2026-09-10: 支持中文，TOC，搜索。
-* [just-the-docs](https://github.com/just-the-docs/just-the-docs) ⭐ 9,164 | 🐛 98 | 🌐 SCSS | 📅 2026-09-11: 基于 Jekyll，适用于生成项目文档。搜索功能强大。
+* [eleventy](https://github.com/11ty/eleventy) ⭐ 19,909 | 🐛 186 | 🌐 JavaScript | 📅 2026-09-14: 「待评价」
+* [Zola](https://github.com/getzola/zola) ⭐ 17,440 | 🐛 192 | 🌐 Rust | 📅 2026-09-14: Rust 生态。自带搜索栏。
+* [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ⭐ 10,263 | 🐛 34 | 🌐 HTML | 📅 2026-09-10: 支持中文，TOC，搜索。
+* [just-the-docs](https://github.com/just-the-docs/just-the-docs) ⭐ 9,165 | 🐛 99 | 🌐 SCSS | 📅 2026-09-14: 基于 Jekyll，适用于生成项目文档。搜索功能强大。
   * 缺点
-    * `{:toc}` 这类语法依赖 kramdown，如果 \_config.yml 修改了 markdown 解析器，这类语法[将会失效](https://github.com/just-the-docs/just-the-docs/issues/1159) ⭐ 9,164 | 🐛 98 | 🌐 SCSS | 📅 2026-09-11。
-    * 搜索栏默认[不支持中文](https://github.com/just-the-docs/just-the-docs/issues/59) ⭐ 9,164 | 🐛 98 | 🌐 SCSS | 📅 2026-09-11，它使用 [lunr.js](https://github.com/olivernn/lunr.js) ⭐ 9,201 | 🐛 130 | 🌐 JavaScript | 📅 2024-07-31，需要自己添加[语言包](https://github.com/MihaiValentin/lunr-languages) ⭐ 458 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-09，得改很多东西。
+    * `{:toc}` 这类语法依赖 kramdown，如果 \_config.yml 修改了 markdown 解析器，这类语法[将会失效](https://github.com/just-the-docs/just-the-docs/issues/1159) ⭐ 9,165 | 🐛 99 | 🌐 SCSS | 📅 2026-09-14。
+    * 搜索栏默认[不支持中文](https://github.com/just-the-docs/just-the-docs/issues/59) ⭐ 9,165 | 🐛 99 | 🌐 SCSS | 📅 2026-09-14，它使用 [lunr.js](https://github.com/olivernn/lunr.js) ⭐ 9,202 | 🐛 130 | 🌐 JavaScript | 📅 2024-07-31，需要自己添加[语言包](https://github.com/MihaiValentin/lunr-languages) ⭐ 458 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-15，得改很多东西。
     * 导航栏的编排很冗余。必须要给 markdown 文档加内容。
-* [staticrypt](https://github.com/robinmoisson/staticrypt) ⭐ 8,037 | 🐛 33 | 🌐 HTML | 📅 2026-07-06: 加密静态网页，解密无需后端服务
-* [bisheng](https://github.com/benjycui/bisheng) ⭐ 2,879 | 🐛 60 | 🌐 JavaScript | 📅 2023-09-26: 「待评价」
+* [staticrypt](https://github.com/robinmoisson/staticrypt) ⭐ 8,038 | 🐛 33 | 🌐 HTML | 📅 2026-07-06: 加密静态网页，解密无需后端服务
+* [bisheng](https://github.com/benjycui/bisheng) ⭐ 2,880 | 🐛 60 | 🌐 JavaScript | 📅 2023-09-26: 「待评价」
 * [Jekyll](https://jekyllrb.com/): Ruby 生态。Github Page 默认 SSG。markdown 文本编译成网页。主题和插件生态非常丰富。
   * [jekyll-toc](https://github.com/allejo/jekyll-toc) ⭐ 522 | 🐛 0 | 🌐 Liquid | 📅 2024-01-15: 给 Github Page 的 jekyll 主题增加 TOC
   * [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme) ⭐ 334 | 🐛 10 | 🌐 Ruby | 📅 2026-09-06: 自动安装 jekyll 主题
@@ -1499,33 +1499,33 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### 文档系统
 
-* [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 76,639 | 🐛 1,034 | 🌐 Dart | 📅 2026-09-10: 类似 Notion 的笔记系统。基于 Flutter 和 Rust 开发
-* [memos](https://github.com/usememos/memos) ⭐ 63,026 | 🐛 74 | 🌐 Go | 📅 2026-09-13: 轻笔记服务，功能类似 Flomo。简单好用易部署
-* [outline](https://github.com/outline/outline) ⭐ 40,534 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-13: 类似 Notion 的知识库、WIKI 平台
-* [wiki.js](https://github.com/Requarks/wiki) ⭐ 28,919 | 🐛 182 | 🌐 Vue | 📅 2026-09-14: 现代化的 WIKI。AGPL-3.0 License
-* [Tolaria](https://github.com/refactoringhq/tolaria) ⭐ 19,774 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-12: 开源的 Markdown 笔记系统
-* [scalar](https://github.com/scalar/scalar) ⭐ 16,098 | 🐛 68 | 🌐 TypeScript | 📅 2026-09-14: 根据 OpenAPI/Swagger 文件生成漂亮的 API 文档网站. <https://scalar.com/>
+* [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 76,696 | 🐛 1,028 | 🌐 Dart | 📅 2026-09-10: 类似 Notion 的笔记系统。基于 Flutter 和 Rust 开发
+* [memos](https://github.com/usememos/memos) ⭐ 63,068 | 🐛 67 | 🌐 Go | 📅 2026-09-15: 轻笔记服务，功能类似 Flomo。简单好用易部署
+* [outline](https://github.com/outline/outline) ⭐ 40,549 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-14: 类似 Notion 的知识库、WIKI 平台
+* [wiki.js](https://github.com/Requarks/wiki) ⭐ 28,925 | 🐛 182 | 🌐 Vue | 📅 2026-09-15: 现代化的 WIKI。AGPL-3.0 License
+* [Tolaria](https://github.com/refactoringhq/tolaria) ⭐ 19,788 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-12: 开源的 Markdown 笔记系统
+* [scalar](https://github.com/scalar/scalar) ⭐ 16,107 | 🐛 84 | 🌐 TypeScript | 📅 2026-09-15: 根据 OpenAPI/Swagger 文件生成漂亮的 API 文档网站. <https://scalar.com/>
 * [Obsidian](https://obsidian.md/): 笔记系统，纯 Markdown 文本数据本地存储，支持跨平台，插件生态好。用好插件才能发挥它的优势。
-  * [quartz](https://github.com/jackyzha0/quartz) ⭐ 13,223 | 🐛 69 | 🌐 TypeScript | 📅 2026-09-06: Markdown 转静态网站
+  * [quartz](https://github.com/jackyzha0/quartz) ⭐ 13,231 | 🐛 69 | 🌐 TypeScript | 📅 2026-09-15: Markdown 转静态网站
   * Obsidian 插件
-    * [obsidian-git](https://github.com/Vinzent03/obsidian-git) ⭐ 11,971 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-08: 定时保存修改到 git 并且同步到远端（可选）
-    * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) ⭐ 7,710 | 🐛 114 | 🌐 TypeScript | 📅 2026-09-14: 集成 AI 到 obsidian
+    * [obsidian-git](https://github.com/Vinzent03/obsidian-git) ⭐ 11,979 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-08: 定时保存修改到 git 并且同步到远端（可选）
+    * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) ⭐ 7,721 | 🐛 91 | 🌐 TypeScript | 📅 2026-09-15: 集成 AI 到 obsidian
     * [Obsidian Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) ⭐ 4,010 | 🐛 155 | 🌐 TypeScript | 📅 2026-09-09: 使用 markdown 语法写任务管理
-    * [Local REST API for Obsidian](https://github.com/coddingtonbear/obsidian-local-rest-api) ⭐ 2,920 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-31: 通过 HTTP API 操作 obsidian
+    * [Local REST API for Obsidian](https://github.com/coddingtonbear/obsidian-local-rest-api) ⭐ 2,926 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-31: 通过 HTTP API 操作 obsidian
     * [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) ⭐ 2,611 | 🐛 111 | 🌐 TypeScript | 📅 2026-05-13: improved table navigation, formatting, and manipulation
-    * [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) ⭐ 2,482 | 🐛 40 | 🌐 TypeScript | 📅 2026-07-13: 自定义 CSS
+    * [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) ⭐ 2,483 | 🐛 40 | 🌐 TypeScript | 📅 2026-07-13: 自定义 CSS
     * [Smart Composer](https://github.com/glowingjade/obsidian-smart-composer) ⭐ 2,325 | 🐛 112 | 🌐 TypeScript | 📅 2026-02-16: 集成 AI 到 obsidian，支持 Apply/Diff 操作
     * [Datacore](https://github.com/blacksmithgu/datacore) ⭐ 2,236 | 🐛 79 | 🌐 TypeScript | 📅 2026-06-22: dataview 的继任者。功能很强大。使用 JS/JSX 编辑视图，不支持 DQL。还在开发中
-    * [obsidian-importer](https://github.com/obsidianmd/obsidian-importer) ⭐ 1,655 | 🐛 66 | 🌐 TypeScript | 📅 2026-09-05: import notes from other apps and file formats into your Obsidian
+    * [obsidian-importer](https://github.com/obsidianmd/obsidian-importer) ⭐ 1,657 | 🐛 66 | 🌐 TypeScript | 📅 2026-09-14: import notes from other apps and file formats into your Obsidian
     * [brat](https://github.com/TfTHacker/obsidian42-brat) ⭐ 1,636 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-13: 用于安装开发中插件的插件管理器
-    * [Editing Toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) ⭐ 1,534 | 🐛 152 | 🌐 TypeScript | 📅 2026-09-14: 置顶工具栏, 光标跟随工具栏
-    * [Advanced Canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) ⭐ 1,515 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-09
+    * [Editing Toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) ⭐ 1,536 | 🐛 152 | 🌐 TypeScript | 📅 2026-09-14: 置顶工具栏, 光标跟随工具栏
+    * [Advanced Canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) ⭐ 1,518 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-09
     * [obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings) ⭐ 806 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-31: 简单好用的主题
     * [obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) ⭐ 718 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-12: 启动 obsidian 后自动打开主页文档
     * [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) ⭐ 695 | 🐛 90 | 🌐 TypeScript | 📅 2024-12-15: 从粘贴的链接中自动获取标题
     * [Numerals](https://github.com/gtg922r/obsidian-numerals) ⭐ 645 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-14: power of an advanced calculator inside a math code block, complete with currencies, units, variables, and math functions!
     * [Code Styler Plugin](https://github.com/mayurankv/Obsidian-Code-Styler) ⭐ 602 | 🐛 122 | 🌐 JavaScript | 📅 2025-02-16: lets you style codeblocks and inline code in both editing mode and reading mode.
-    * [Obsidian List Callouts](https://github.com/mgmeyers/obsidian-list-callouts) ⭐ 495 | 🐛 65 | 🌐 TypeScript | 📅 2024-09-08
+    * [Obsidian List Callouts](https://github.com/mgmeyers/obsidian-list-callouts) ⭐ 495 | 🐛 64 | 🌐 TypeScript | 📅 2024-09-08
     * [Image Auto Upload](https://github.com/renmu123/obsidian-image-auto-upload-plugin) ⭐ 473 | 🐛 78 | 🌐 TypeScript | 📅 2024-11-28: 配合 picgo 实现图片自动上传到图床。需要仔细配置才能用好。
     * [Whisper Obsidian Plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) ⭐ 379 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-07: Speech-to-text in Obsidian using OpenAI Whisper
     * [Front Matter Title](https://github.com/snezhig/obsidian-front-matter-title) ⭐ 376 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-28: 用元数据 title 作为文件标题
@@ -1538,17 +1538,17 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
     * [Update modified field on edit](https://github.com/alangrainger/obsidian-frontmatter-modified-date) ⭐ 172 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-27
     * [Image Captions](https://github.com/alangrainger/obsidian-image-captions) ⭐ 170 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-30: 让图片显示标注
     * [Slash Commander](https://github.com/alephpiece/obsidian-slash-commander) ⭐ 111 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-04: 按 / 显示快捷命令列表，可自定义
-    * [Trash Explorer](https://github.com/proog/obsidian-trash-explorer) ⭐ 72 | 🐛 12 | 🌐 TypeScript | 📅 2026-01-10: Restore and delete files from the Obsidian .trash folder
+    * [Trash Explorer](https://github.com/proog/obsidian-trash-explorer) ⭐ 73 | 🐛 12 | 🌐 TypeScript | 📅 2026-01-10: Restore and delete files from the Obsidian .trash folder
     * [Trim Whitespace](https://github.com/zlovatt/obsidian-trim-whitespace) ⭐ 63 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-02: 去除多余空格
     * [Vim Toggle](https://github.com/conneroisu/vim-toggle) ⭐ 47 | 🐛 12 | 🌐 TypeScript | 📅 2025-11-15: 让 obsidian 支持 vim 快捷键
     * [obsidian-file-cleaner](https://github.com/johnsonhong997/obsidian-file-cleaner) ⭐ 46 | 🐛 14 | 🌐 TypeScript | 📅 2023-11-05: 清理空文件和不需要的附件
-    * [Show Whitespace](https://github.com/ebullient/obsidian-show-whitespace-cm6) ⭐ 43 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-07: 显示换行符和多余的空格
+    * [Show Whitespace](https://github.com/ebullient/obsidian-show-whitespace-cm6) ⭐ 43 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-14: 显示换行符和多余的空格
     * [Market Proxy](https://github.com/haierkeys/obsidian-market-proxy) ⭐ 38 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-02
-    * [Refresh Any View](https://github.com/mnaoumov/obsidian-refresh-any-view) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-13: 增加一个刷新页面的按钮
+    * [Refresh Any View](https://github.com/mnaoumov/obsidian-refresh-any-view) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-15: 增加一个刷新页面的按钮
     * 不要安装 make.md，它可能会把你的文档数据弄丢！
   * Obsidian css snippets
     * [Dmytro-Shulha/obsidian-css-snippets](https://github.com/Dmytro-Shulha/obsidian-css-snippets) ⭐ 1,756 | 🐛 5 | 📅 2024-12-15
-    * [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) ⭐ 1,567 | 🐛 0 | 📅 2026-07-22
+    * [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) ⭐ 1,568 | 🐛 0 | 📅 2026-07-22
     * [Obsidian-Colored-Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) ⭐ 859 | 🐛 20 | 🌐 CSS | 📅 2024-05-17: A Colored Sidebar CSS Snippet for Obsidian.
     * [gsarig/obsidian-css-snippets](https://github.com/gsarig/obsidian-css-snippets) ⭐ 159 | 🐛 0 | 🌐 CSS | 📅 2026-05-05
 * [Notion](https://www.notion.so/): 笔记工具
@@ -1560,58 +1560,58 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
   * [nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) ⭐ 7,035 | 🐛 151 | 🌐 TypeScript | 📅 2026-09-03
   * [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) ⭐ 5,663 | 🐛 80 | 🌐 TypeScript | 📅 2026-09-13
   * [react-notion-x](https://github.com/NotionX/react-notion-x) ⭐ 5,431 | 🐛 181 | 🌐 TypeScript | 📅 2026-09-03: 用 react 组件搭建 notion page
-  * [notion-blog](https://github.com/ijjk/notion-blog) ⭐ 3,860 | 🐛 27 | 🌐 TypeScript | 📅 2024-04-08
+  * [notion-blog](https://github.com/ijjk/notion-blog) ⭐ 3,859 | 🐛 27 | 🌐 TypeScript | 📅 2024-04-08
 * [sphinx-doc](https://www.sphinx-doc.org): reStructuredText 文档渲染工具
 
 ### 文档处理
 
-* [carbon](https://github.com/dawnlabs/carbon) ⭐ 36,104 | 🐛 86 | 🌐 JavaScript | 📅 2026-02-10: 代码转成图片
+* [carbon](https://github.com/dawnlabs/carbon) ⭐ 36,103 | 🐛 86 | 🌐 JavaScript | 📅 2026-02-10: 代码转成图片
 * [unified](https://github.com/unifiedjs/unified) ⭐ 5,030 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29: interface for parsing, inspecting, transforming, and serializing content through syntax trees
-* [盤古之白](https://github.com/vinta/pangu.js) ⭐ 4,818 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-14: 给文档加空格
-  * <https://github.com/vinta/pangu.space> ⭐ 29 | 🐛 0 | 🌐 HCL | 📅 2026-02-10 : Web API
-* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,253 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-13: HTML processor
+* [盤古之白](https://github.com/vinta/pangu.js) ⭐ 4,820 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15: 给文档加空格
+  * <https://github.com/vinta/pangu.space> ⭐ 29 | 🐛 0 | 🌐 HCL | 📅 2026-09-14 : Web API
+* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,255 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-13: HTML processor
 * [pandoc](https://pandoc.org/): 各种格式的文档转换工具 <a name="unified"></a>
 
 ### 文档检查
 
-* [lychee](https://github.com/lycheeverse/lychee) ⭐ 3,913 | 🐛 80 | 🌐 Rust | 📅 2026-09-08: 命令行工具，检查文档中的链接和邮件地址是否有效
+* [lychee](https://github.com/lycheeverse/lychee) ⭐ 3,915 | 🐛 80 | 🌐 Rust | 📅 2026-09-14: 命令行工具，检查文档中的链接和邮件地址是否有效
   * [markdown-link-check](https://github.com/tcort/markdown-link-check) ⭐ 714 | 🐛 14 | 🌐 JavaScript | 📅 2026-07-28: 备用方案。没人维护。JS 写的
   * [lychee-action](https://github.com/lycheeverse/lychee-action) ⭐ 511 | 🐛 11 | 🌐 Shell | 📅 2026-07-09: 用 github action 自动检查
 
 ### 文档排版
 
-* [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) ⭐ 15,685 | 🐛 30 | 📅 2026-07-07
+* [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) ⭐ 15,687 | 🐛 30 | 📅 2026-07-07
 * [赫蹏（hètí）](https://github.com/sivan/heti) ⭐ 6,727 | 🐛 24 | 🌐 SCSS | 📅 2025-08-31: css 样式
 * [中文排版需求](https://www.w3.org/TR/clreq/)
   * <https://github.com/w3c/clreq> ⭐ 809 | 🐛 184 | 🌐 HTML | 📅 2026-09-09
 
 ### Markdown
 
-* [mdx](https://github.com/mdx-js/mdx) ⭐ 19,787 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-11: Markdown + JSX = MDX。支持模块导入和导出，支持 React 组件。写 Web 文档利器。
+* [mdx](https://github.com/mdx-js/mdx) ⭐ 19,788 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-11: Markdown + JSX = MDX。支持模块导入和导出，支持 React 组件。写 Web 文档利器。
   * [Code Hike](https://github.com/code-hike/codehike) ⭐ 5,376 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-17: MDX 的 remark 插件。使用场景：code walkthrough。
-* [remark](https://github.com/remarkjs/remark) ⭐ 8,996 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-01: markdown processor
+* [remark](https://github.com/remarkjs/remark) ⭐ 8,995 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-01: markdown processor
 * [markdown-toc](https://github.com/jonschlinkert/markdown-toc) ⭐ 1,754 | 🐛 91 | 🌐 JavaScript | 📅 2024-08-09: 根据 markdown heading 文本输出 TOC
 * [json2md](https://github.com/IonicaBizau/json2md) ⭐ 653 | 🐛 8 | 🌐 JavaScript | 📅 2025-04-11: 非常灵活的 Markdown 生成工具，容易自己定制功能
 * [unified](#unified)
-  * [marked](https://github.com/markedjs/marked) ⭐ 37,140 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-12: 备用方案
+  * [marked](https://github.com/markedjs/marked) ⭐ 37,144 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-15: 备用方案
 
 ### Markdown 编辑器
 
-* [marktext](https://github.com/marktext/marktext) ⭐ 61,396 | 🐛 543 | 🌐 TypeScript | 📅 2026-09-14: 跨平台的 Markdown 编辑器，GUI 应用
+* [marktext](https://github.com/marktext/marktext) ⭐ 61,436 | 🐛 536 | 🌐 TypeScript | 📅 2026-09-15: 跨平台的 Markdown 编辑器，GUI 应用
 * [stackedit](https://github.com/benweet/stackedit) ⭐ 23,083 | 🐛 732 | 🌐 JavaScript | 📅 2023-07-04: 运行在浏览器中的 Markdown 编辑器。文件存储在浏览器的 localstorage 中，也可以导出到文本到本地磁盘、Google Drive、Dropbox，或你的 GitHub 账户下。详见[链接](https://github.com/benweet/stackedit/blob/6dce2a5e36b755a0c244522b48a06c91a2df0f59/src/data/welcomeFile.md) ⭐ 23,083 | 🐛 732 | 🌐 JavaScript | 📅 2023-07-04。
 
 ### Changelog
 
 * [standard-version](https://github.com/conventional-changelog/standard-version) ⭐ 7,981 | 🐛 309 | 🌐 JavaScript | 📅 2026-07-16: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org (现在无人维护)
-  * [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,036 | 🐛 404 | 🌐 JavaScript | 📅 2026-09-14: 备选方案
+  * [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,037 | 🐛 406 | 🌐 JavaScript | 📅 2026-09-14: 备选方案
   * conventional-changelog 的 [.versionrc 配置](https://github.com/conventional-changelog/conventional-changelog-config-spec/) ⭐ 125 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-11
-* [release-please](https://github.com/googleapis/release-please) ⭐ 7,492 | 🐛 355 | 🌐 TypeScript | 📅 2026-09-11: 结合 Github Action 自动执行：生成 Changelog，打 tag，发 Release
+* [release-please](https://github.com/googleapis/release-please) ⭐ 7,496 | 🐛 354 | 🌐 TypeScript | 📅 2026-09-14: 结合 Github Action 自动执行：生成 Changelog，打 tag，发 Release
 * [git-chglog](https://github.com/git-chglog/git-chglog) ⚠️ Archived: CHANGELOG generator implemented in Go
 * <http://keepachangelog.com/>  Changelog 书写规约
 
 ## Hash
 
-* [xxHash](https://github.com/Cyan4973/xxHash) ⭐ 11,245 | 🐛 44 | 🌐 C | 📅 2026-07-27
+* [xxHash](https://github.com/Cyan4973/xxHash) ⭐ 11,249 | 🐛 31 | 🌐 C | 📅 2026-09-15
 * [Wikipedia - List of hash functions](https://www.wikiwand.com/en/List_of_hash_functions)
 * [hashids](https://hashids.org/)
 
@@ -1619,13 +1619,13 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 视频处理
 
-* [Remotion](https://github.com/JonnyBurger/remotion) ⭐ 59,167 | 🐛 174 | 🌐 TypeScript | 📅 2026-09-14: 用 React 制作视频
+* [Remotion](https://github.com/JonnyBurger/remotion) ⭐ 59,301 | 🐛 166 | 🌐 TypeScript | 📅 2026-09-15: 用 React 制作视频
 
 ## 压缩/解压
 
-* [zstd](https://github.com/facebook/zstd) ⭐ 27,853 | 🐛 380 | 🌐 C | 📅 2026-09-11: 压缩比率、速度都很高。
-* [snappy](https://github.com/google/snappy) ⭐ 6,612 | 🐛 68 | 🌐 C++ | 📅 2026-09-09: 速度非常快，但压缩比低。
-* [mozjpeg](https://github.com/mozilla/mozjpeg) ⭐ 5,723 | 🐛 104 | 🌐 C | 📅 2025-06-23: mozilla 出品的 JPEG 图像压缩算法，压缩率很高
+* [zstd](https://github.com/facebook/zstd) ⭐ 27,861 | 🐛 380 | 🌐 C | 📅 2026-09-14: 压缩比率、速度都很高。
+* [snappy](https://github.com/google/snappy) ⭐ 6,612 | 🐛 64 | 🌐 C++ | 📅 2026-09-14: 速度非常快，但压缩比低。
+* [mozjpeg](https://github.com/mozilla/mozjpeg) ⭐ 5,724 | 🐛 104 | 🌐 C | 📅 2025-06-23: mozilla 出品的 JPEG 图像压缩算法，压缩率很高
 
 ## [OCR](./ML/README.md#ocr)
 
@@ -1640,34 +1640,34 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 * Mac 系统自带截图工具。不支持滚动截屏，其他功能都有。Safari 支持滚动截屏。
 * screencapture:  Mac 自带命令，截图/截屏工具。
 * [ShareX](https://getsharex.com/): 开源的截图、截屏、录屏、颜色提取、OCR、滚动截图。交互设计一般 `ⓦ`
-* [kap](https://github.com/wulkano/kap/) ⭐ 19,352 | 🐛 256 | 🌐 TypeScript | 📅 2024-11-12: 用户体验很好的，开源的录屏工具，支持 GIF, MP4, WebM, APNG `Ⓜ` `⨀`
+* [kap](https://github.com/wulkano/kap/) ⭐ 19,353 | 🐛 256 | 🌐 TypeScript | 📅 2024-11-12: 用户体验很好的，开源的录屏工具，支持 GIF, MP4, WebM, APNG `Ⓜ` `⨀`
 
 ## 漫画
 
-* [mihon](https://github.com/mihonapp/mihon) ⭐ 23,569 | 🐛 735 | 🌐 Kotlin | 📅 2026-09-14: 看漫画用的，需要导入插件订阅第三方源。
-  * [Keiyoushi Extensions](https://github.com/keiyoushi/extensions) ⭐ 14,964 | 🐛 0 | 🌐 HTML | 📅 2026-09-14: Extension repository for Mihon and variants
-  * [copymanga-copy20](https://github.com/LittleSurvival/copymanga-copy20) ⭐ 2,744 | 🐛 11 | 🌐 Smali | 📅 2026-09-08
-  * [Kahon](https://github.com/AmanoTeam/Kahon) ⭐ 333 | 🐛 4 | 🌐 Kotlin | 📅 2026-09-06: A fork of Mihon with some annoying restrictions removed
-* [Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) ⭐ 7,677 | 🐛 190 | 🌐 Java | 📅 2026-09-13: 自部署的漫画服务。界面类似 mihon，兼容 mihon 插件和源。支持 docker 部署。
-  * [tachiyomi-extension](https://github.com/Suwayomi/tachiyomi-extension) ⭐ 325 | 🐛 14 | 🌐 Kotlin | 📅 2026-09-12: Mihon 插件，访问 Suwayomi server
+* [mihon](https://github.com/mihonapp/mihon) ⭐ 23,593 | 🐛 734 | 🌐 Kotlin | 📅 2026-09-14: 看漫画用的，需要导入插件订阅第三方源。
+  * [Keiyoushi Extensions](https://github.com/keiyoushi/extensions) ⭐ 14,975 | 🐛 0 | 🌐 HTML | 📅 2026-09-14: Extension repository for Mihon and variants
+  * [copymanga-copy20](https://github.com/LittleSurvival/copymanga-copy20) ⭐ 2,748 | 🐛 11 | 🌐 Smali | 📅 2026-09-08
+  * [Kahon](https://github.com/AmanoTeam/Kahon) ⭐ 334 | 🐛 4 | 🌐 Kotlin | 📅 2026-09-06: A fork of Mihon with some annoying restrictions removed
+* [Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) ⭐ 7,686 | 🐛 190 | 🌐 Java | 📅 2026-09-13: 自部署的漫画服务。界面类似 mihon，兼容 mihon 插件和源。支持 docker 部署。
+  * [tachiyomi-extension](https://github.com/Suwayomi/tachiyomi-extension) ⭐ 326 | 🐛 14 | 🌐 Kotlin | 📅 2026-09-12: Mihon 插件，访问 Suwayomi server
 
 ## 视频/音频
 
-* [jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 57,081 | 🐛 710 | 🌐 C# | 📅 2026-09-14: 多媒体系统。可以看电源和图片。支持 docker 自部署、IPTV、硬解、外挂字幕。UI 颜值不错。
-  * [awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ⭐ 9,275 | 🐛 45 | 🌐 Shell | 📅 2026-09-12: jellyfin 开源生态
-  * [jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) ⭐ 2,137 | 🐛 3 | 🌐 C# | 📅 2026-09-12: 电影元数据插件，数据来自豆瓣
-  * [jellyfin-plugin-bangumi](https://github.com/kookxiang/jellyfin-plugin-bangumi) ⭐ 1,133 | 🐛 19 | 🌐 C# | 📅 2026-09-12: 动漫元数据插件，数据来自 bangumi
+* [jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 57,139 | 🐛 662 | 🌐 C# | 📅 2026-09-15: 多媒体系统。可以看电源和图片。支持 docker 自部署、IPTV、硬解、外挂字幕。UI 颜值不错。
+  * [awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ⭐ 9,289 | 🐛 49 | 🌐 Shell | 📅 2026-09-12: jellyfin 开源生态
+  * [jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) ⭐ 2,140 | 🐛 3 | 🌐 C# | 📅 2026-09-12: 电影元数据插件，数据来自豆瓣
+  * [jellyfin-plugin-bangumi](https://github.com/kookxiang/jellyfin-plugin-bangumi) ⭐ 1,134 | 🐛 18 | 🌐 C# | 📅 2026-09-12: 动漫元数据插件，数据来自 bangumi
   * [jellyfin-plugin-skin-manager](https://github.com/danieladov/jellyfin-plugin-skin-manager) ⭐ 660 | 🐛 43 | 🌐 JavaScript | 📅 2026-05-05: 皮肤管理器
-* [iina](https://github.com/lhc70000/iina) ⭐ 46,337 | 🐛 1,934 | 🌐 Swift | 📅 2026-09-14: 视频播放器。基于 [mpv][] 开发 `Ⓜ`
-* [mpv](https://github.com/mpv-player/mpv) ⭐ 36,974 | 🐛 1,153 | 🌐 C | 📅 2026-09-14: 跨平台的媒体播放器，支持命令行
-  * [vlc](https://github.com/videolan/vlc) ⭐ 19,635 | 🐛 2 | 🌐 C | 📅 2026-09-14: 备选方案
-* [HandBrake](https://github.com/HandBrake/HandBrake) ⭐ 24,381 | 🐛 295 | 🌐 C | 📅 2026-09-12: 视频转码器
-* [obs-ndi](https://github.com/Palakis/obs-ndi) ⭐ 4,535 | 🐛 65 | 🌐 C++ | 📅 2026-08-23: 采集窗口的视频和音频
+* [iina](https://github.com/lhc70000/iina) ⭐ 46,348 | 🐛 1,935 | 🌐 Swift | 📅 2026-09-15: 视频播放器。基于 [mpv][] 开发 `Ⓜ`
+* [mpv](https://github.com/mpv-player/mpv) ⭐ 36,979 | 🐛 1,153 | 🌐 C | 📅 2026-09-14: 跨平台的媒体播放器，支持命令行
+  * [vlc](https://github.com/videolan/vlc) ⭐ 19,645 | 🐛 2 | 🌐 C | 📅 2026-09-15: 备选方案
+* [HandBrake](https://github.com/HandBrake/HandBrake) ⭐ 24,387 | 🐛 299 | 🌐 C | 📅 2026-09-12: 视频转码器
+* [obs-ndi](https://github.com/Palakis/obs-ndi) ⭐ 4,536 | 🐛 65 | 🌐 C++ | 📅 2026-08-23: 采集窗口的视频和音频
 * [µStreamer](https://github.com/pikvm/ustreamer) ⭐ 2,031 | 🐛 13 | 🌐 C | 📅 2026-09-10: 轻量级的 MJPEG 转 HTTP 推流服务。支持 VGA 和 HDMI 采集卡。
 * [OBS](https://obsproject.com/): 非常好用的推流和录制工具。免费。
-  * [源码 obsproject/obs-studio](https://github.com/obsproject/obs-studio) ⭐ 76,190 | 🐛 1,150 | 🌐 C | 📅 2026-09-11
+  * [源码 obsproject/obs-studio](https://github.com/obsproject/obs-studio) ⭐ 76,228 | 🐛 1,143 | 🌐 C | 📅 2026-09-15
 * [Sound Siphon](https://staticz.com/soundsiphon/): Mac 下最好用的音频录制工具。能创建虚拟输入设备。能把任何应用的音频输出转发到另一个应用上。价格有点贵。 `Ⓜ`
-  * [BlackHole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,755 | 🐛 10 | 🌐 C | 📅 2026-08-11: 免费的开源方案
+  * [BlackHole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,758 | 🐛 10 | 🌐 C | 📅 2026-08-11: 免费的开源方案
   * [loopback](https://rogueamoeba.com/loopback/): 类似的备选方案，价格更贵 `Ⓜ`
   * [Audio Hijack](https://rogueamoeba.com/audiohijack/): 专业录音工具。不能创建虚拟设备。 `Ⓜ`
 * [forecast](https://overcast.fm/forecast): MP3 metadata 编辑器。做播客会用到。 `Ⓜ` <a name="mpv"></a>
@@ -1675,9 +1675,9 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ### 音乐
 
-* [SpotX](https://github.com/SpotX-Official/SpotX) ⭐ 22,349 | 🐛 2 | 🌐 PowerShell | 📅 2026-09-09: 修改 Spotify，屏蔽广告，只对 Windows 平台有效。
-  * [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) ⭐ 6,052 | 🐛 3 | 🌐 Shell | 📅 2026-09-09: 修改 Spotify，屏蔽广告，只对 Linux、MacOS 有效。
-* [MuseScore](https://github.com/musescore/MuseScore) ⭐ 15,101 | 🐛 4,216 | 🌐 C++ | 📅 2026-09-14: 开源的打谱软件
+* [SpotX](https://github.com/SpotX-Official/SpotX) ⭐ 22,356 | 🐛 2 | 🌐 PowerShell | 📅 2026-09-09: 修改 Spotify，屏蔽广告，只对 Windows 平台有效。
+  * [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) ⭐ 6,060 | 🐛 3 | 🌐 Shell | 📅 2026-09-14: 修改 Spotify，屏蔽广告，只对 Linux、MacOS 有效。
+* [MuseScore](https://github.com/musescore/MuseScore) ⭐ 15,107 | 🐛 4,220 | 🌐 C++ | 📅 2026-09-15: 开源的打谱软件
 * <https://musescore.com/> : MuseScore 曲谱分享平台。包含可视化弹奏等强大功能。大部分功能收费。
 * <http://etaaudio.com/> : 遵循 CC 协议分享的音乐库
 
@@ -1691,7 +1691,7 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 运营
 
-* [Wechatsync](https://github.com/wechatsync/Wechatsync) ⭐ 6,301 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27: 一键多平台同步发布文章。支持微信公众号、知乎、微博、今日头条、BiliBili、WordPress、简书、掘金、typecho 等平台
+* [Wechatsync](https://github.com/wechatsync/Wechatsync) ⭐ 6,305 | 🐛 44 | 🌐 TypeScript | 📅 2026-05-27: 一键多平台同步发布文章。支持微信公众号、知乎、微博、今日头条、BiliBili、WordPress、简书、掘金、typecho 等平台
 * <https://lab.lyric.im/wxformat/> : Markdown 转微信公众号排版的工具
   * [源码](https://github.com/lyricat/wechat-format) ⭐ 4,551 | 🐛 4 | 🌐 JavaScript | 📅 2025-09-13
 
@@ -1703,13 +1703,13 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ## 游戏开发
 
-* [godot](https://github.com/godotengine/godot) ⭐ 117,092 | 🐛 18,883 | 🌐 C++ | 📅 2026-09-13: 免费的游戏引擎。MIT License
-* [cheat-engine](https://github.com/cheat-engine/cheat-engine/) ⭐ 19,174 | 🐛 1,309 | 🌐 Pascal | 📅 2025-04-19: 游戏内存修改器。支持 Mac。
-* [godot-lang-support](https://github.com/Vivraan/godot-lang-support) ⭐ 564 | 🐛 0 | 📅 2026-06-30: godot 其他编程语言扩展
+* [godot](https://github.com/godotengine/godot) ⭐ 117,191 | 🐛 18,879 | 🌐 C++ | 📅 2026-09-15: 免费的游戏引擎。MIT License
+* [cheat-engine](https://github.com/cheat-engine/cheat-engine/) ⭐ 19,179 | 🐛 1,309 | 🌐 Pascal | 📅 2025-04-19: 游戏内存修改器。支持 Mac。
+* [godot-lang-support](https://github.com/Vivraan/godot-lang-support) ⭐ 565 | 🐛 1 | 📅 2026-06-30: godot 其他编程语言扩展
 
 ## 二维码
 
-* [zxing](https://github.com/zxing/zxing) ⭐ 34,090 | 🐛 3 | 🌐 Java | 📅 2026-09-07: 开源的二维码扫描工具，提供类库以及安装包，支持 Android、iOS。
+* [zxing](https://github.com/zxing/zxing) ⭐ 34,092 | 🐛 3 | 🌐 Java | 📅 2026-09-07: 开源的二维码扫描工具，提供类库以及安装包，支持 Android、iOS。
 * [qrcode](https://github.com/soldair/node-qrcode) ⭐ 8,174 | 🐛 125 | 🌐 JavaScript | 📅 2024-08-23: 命令行版二维码生成器
 * [二维码生成器](https://qrbtf.com/)
 
@@ -1720,27 +1720,27 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 * [ncftp](https://www.ncftp.com/ncftp/): ftp 命令行客户端，macos、linux 平台通用。缺点是不支持 ftp over ssl。
   * [lftp](https://lftp.yar.ru): macos、linux 平台通用。支持 ftp over TLS or OpenSSL。缺点是没有 lls 这样的指令。只能用 `!`。
 * [Transmit](https://panic.com/transmit/): FTP/SFTP/WebDAV/S3/Backblaze B2/Box/Google Drive/DreamObjects/Dropbox/Microsoft Azure/Rackspace Cloud Files 客户端 APP。 `Ⓜ`
-* [sftpgo](https://github.com/drakkan/sftpgo) ⭐ 12,517 | 🐛 176 | 🌐 Go | 📅 2026-09-07: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
+* [sftpgo](https://github.com/drakkan/sftpgo) ⭐ 12,523 | 🐛 176 | 🌐 Go | 📅 2026-09-07: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
 * [WinSCP](https://winscp.net/): 免费开源的 FTP GUI 客户端。也支持 SCP、WebDAV、S3。支持中文文件名。`ⓦ`
 * [muCommander](https://www.mucommander.com/): 开源、跨平台的 FTP GUI 客户端。支持 FTP, SFTP, SMB, NFS, HTTP, Amazon S3, Hadoop HDFS, Bonjour。缺点：中文文件名会显示乱码。
 
 ## 资讯/信息
 
-* [TrendRadar](https://github.com/sansan0/TrendRadar) ⭐ 62,237 | 🐛 58 | 🌐 Python | 📅 2026-09-13: 用 AI 筛选聚合资讯的平台
+* [TrendRadar](https://github.com/sansan0/TrendRadar) ⭐ 62,273 | 🐛 58 | 🌐 Python | 📅 2026-09-13: 用 AI 筛选聚合资讯的平台
 
 ### RSS
 
-* [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,181 | 🐛 361 | 🌐 TypeScript | 📅 2026-09-14: 从任何内容生成 RSS/Atom/JSON 订阅源。定制转换路由需要自己写 JS 代码，略麻烦。
-* [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,334 | 🐛 69 | 🌐 TypeScript | 📅 2026-09-01: 浏览器插件，用于查询 RSS 或 RSSHub 订阅
-* [TTRSS](https://github.com/HenryQW/Awesome-TTRSS) ⭐ 2,594 | 🐛 1 | 🌐 PHP | 📅 2026-08-07: 自部署的 RSS 阅读器 Web 服务
+* [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 46,186 | 🐛 355 | 🌐 TypeScript | 📅 2026-09-15: 从任何内容生成 RSS/Atom/JSON 订阅源。定制转换路由需要自己写 JS 代码，略麻烦。
+* [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,335 | 🐛 69 | 🌐 TypeScript | 📅 2026-09-01: 浏览器插件，用于查询 RSS 或 RSSHub 订阅
+* [TTRSS](https://github.com/HenryQW/Awesome-TTRSS) ⭐ 2,593 | 🐛 1 | 🌐 PHP | 📅 2026-08-07: 自部署的 RSS 阅读器 Web 服务
 
 ***
 
 ## 别人的工具列表
 
-* [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 319,135 | 🐛 0 | 📅 2026-09-12
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) ⭐ 113,749 | 🐛 877 | 🌐 Swift | 📅 2026-09-14
-* [sbilly/awesome-security](https://github.com/sbilly/awesome-security) ⭐ 14,854 | 🐛 330 | 📅 2026-01-11
+* [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 319,348 | 🐛 0 | 📅 2026-09-12
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) ⭐ 113,828 | 🐛 890 | 🌐 Swift | 📅 2026-09-14
+* [sbilly/awesome-security](https://github.com/sbilly/awesome-security) ⭐ 14,857 | 🐛 330 | 📅 2026-01-11
 * [skyseraph/Soft-Tools](https://github.com/skyseraph/Soft-Tools) ⭐ 306 | 🐛 0 | 📅 2026-04-23
 
 <!-- anchors -->
@@ -1763,4 +1763,4 @@ IDS（Intrusion Detection System，入侵检测系统）和 IPS（Intrusion Prev
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
